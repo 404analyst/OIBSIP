@@ -1,0 +1,939 @@
+CustomerID,Name,Age,Gender,Country,JoinDate,PurchaseAmount,PaymentMethod,Email
+CUST00572,Michael Gonzalez,63,Female,Australia,2022-08-14,115.73,Credit Card,michael.gonzalez572@example.com
+CUST00147,Richard Davis,16,Female,Qatar,2018-04-13,121.59,Paypal,richard.davis147@example.com
+CUST00362,Mary Taylor,53,Female,United Kingdom,2022-06-19,155.15,Credit Card,mary.taylor362@example.com
+CUST00748,Karen Smith,18,Female,India,2022-03-05,247.22,Credit Card,karen.smith748@example.com
+CUST00397,Michael Anderson,19,Female,India,2016-09-06,195.2,Paypal,michael.anderson397@example.com
+CUST00657,Patricia Moore,9,Male,Canada,2018-01-19,101.47,Cash,patricia.moore657@example.com
+CUST00434,Susan Thomas,46,Female,Japan,2020-11-04,130.28,Paypal,susan.thomas434@example.com
+CUST00467,Michael Wilson,34,Female,India,2019-07-13,136.27,Cash,michael.wilson467@example.com
+CUST00172,Joseph Davis,43,Male,France,2015-09-14,55.78,Debit Card,joseph.davis172@example.com
+CUST00306,Jessica Taylor,57,Female,Brazil,2020-08-11,95.16,Cash,jessica.taylor306@example.com
+CUST00404,Sarah Anderson,39,Female,United Kingdom,2019-06-27,181.31,Debit Card,sarah.anderson404@example.com
+CUST00317,John Thomas,24,Female,France,2016-04-15,166.77,Credit Card,john.thomas317@example.com
+CUST00838,Richard Jackson,28,Male,Qatar,2019-07-21,106.49,Cash,richard.jackson838@example.com
+CUST00468,Joseph Johnson,40,Female,Australia,2018-08-23,120.23,Cash,joseph.johnson468@example.com
+CUST00611,Karen Jones,47,Female,United States,2019-12-23,167.45,Paypal,karen.jones611@example.com
+CUST00822,Barbara Williams,56,Male,United States,2019-02-24,130.06,Credit Card,barbara.williams822@example.com
+CUST00749,Karen Moore,40,Male,Qatar,2021-05-12,121.59,Cash,karen.moore749@example.com
+CUST00233,William Anderson,42,Male,Australia,2015-12-17,137.64,Cash,william.anderson233@example.com
+CUST00730,Susan Wilson,34,Female,United States,2018-02-13,110.88,Credit Card,susan.wilson730@example.com
+CUST00396,Barbara Martinez,27,Female,Brazil,2023-06-25,157.12,Cash,barbara.martinez396@example.com
+CUST00794,Mary Johnson,31,Female,United States,2017-04-15,225.56,Cash,mary.johnson794@example.com
+CUST00787,Jennifer Hernandez,32,Female,Qatar,2017-05-20,102.55,Paypal,jennifer.hernandez787@example.com
+CUST00778,Jessica Johnson,67,Female,Canada,2018-12-10,51.67,Debit Card,jessica.johnson778@example.com
+CUST00806,Susan Smith,22,Male,United States,2023-05-22,121.59,Cash,susan.smith806@example.com
+CUST00025,Jennifer Hernandez,27,Female,United Kingdom,2015-09-03,121.38,Paypal,jennifer.hernandez25@example.com
+CUST00926,Karen Garcia,38,Male,Canada,2018-11-09,83.09,Paypal,karen.garcia926@example.com
+CUST00557,William Hernandez,46,Male,United States,2017-08-24,175.23,Cash,william.hernandez557@example.com
+CUST00500,David Jones,36,Male,India,2015-05-15,177.66,Debit Card,david.jones500@example.com
+CUST00010,Susan Williams,39,Female,Germany,2019-06-22,103.66,Credit Card,susan.williams10@example.com
+CUST00424,Patricia Gonzalez,35,Male,Germany,2022-10-22,59.43,Paypal,patricia.gonzalez424@example.com
+CUST00217,Michael Williams,40,Male,India,2015-01-02,112.41,Paypal,michael.williams217@example.com
+CUST00408,Robert Taylor,37,Male,United States,2021-10-17,179.5,Cash,robert.taylor408@example.com
+CUST00165,James Jones,34,Female,United States,2020-05-25,119.6,Paypal,james.jones165@example.com
+CUST00061,David Davis,31,Female,Qatar,2019-04-21,49.76,Cash,david.davis61@example.com
+CUST00169,David Jackson,2,Female,France,2019-12-12,57.42,Credit Card,david.jackson169@example.com
+CUST00164,Richard Johnson,43,Male,Canada,2024-10-06,145.9,Paypal,richard.johnson164@example.com
+CUST00026,Charles Johnson,34,Female,France,2021-04-26,88.68,Credit Card,charles.johnson26@example.com
+CUST00410,Jennifer Smith,50,Female,Brazil,2018-07-12,140.09,Credit Card,jennifer.smith410@example.com
+CUST00418,William Miller,38,Male,United Kingdom,2023-08-20,84.02,Cash,william.miller418@example.com
+CUST00617,Linda Martin,55,Female,United States,2015-02-18,83.57,Cash,linda.martin617@example.com
+CUST00781,Michael Rodriguez,57,Female,France,2024-01-25,156.06,Cash,michael.rodriguez781@example.com
+CUST00795,David Davis,52,Female,Qatar,2015-11-14,109.35,Cash,david.davis795@example.com
+CUST00541,Patricia Martinez,25,Female,Germany,2021-11-12,159.64,Cash,patricia.martinez541@example.com
+CUST00286,Richard Wilson,47,Female,Canada,2023-01-17,82.76,Cash,richard.wilson286@example.com
+CUST00126,Elizabeth Thomas,55,Female,Qatar,2021-02-04,48.32,Cash,elizabeth.thomas126@example.com
+CUST00285,Mary Martin,38,Female,Japan,2020-08-06,237.16,Cash,mary.martin285@example.com
+CUST00774,Patricia Gonzalez,25,Male,Qatar,2020-05-06,76.55,Paypal,patricia.gonzalez774@example.com
+CUST00014,John Anderson,40,Male,Germany,2023-01-21,130.47,Cash,john.anderson14@example.com
+CUST00223,William Jones,45,Male,Japan,2020-12-14,126.63,Credit Card,william.jones223@example.com
+CUST00050,Charles Williams,51,Male,Germany,2015-06-06,115.59,Credit Card,charles.williams50@example.com
+CUST00100,Charles Moore,39,Male,India,2020-11-07,163.6,Paypal,charles.moore100@example.com
+CUST00511,Patricia Williams,46,Female,France,2023-11-06,191.87,Credit Card,patricia.williams511@example.com
+CUST00753,Charles Martin,38,Female,Australia,2021-08-19,123.51,Credit Card,charles.martin753@example.com
+CUST00930,Thomas Brown,38,Female,India,2024-11-25,175.64,Paypal,thomas.brown930@example.com
+CUST00985,Karen Martinez,38,Male,United States,2022-10-21,129.23,Paypal,karen.martinez985@example.com
+CUST00114,Jessica Smith,21,Female,United States,2016-06-05,130.04,Paypal,jessica.smith114@example.com
+CUST00447,Mary Jones,55,Female,Brazil,2015-02-03,112.37,Credit Card,mary.jones447@example.com
+CUST00095,Thomas Garcia,27,Female,Australia,2022-09-15,169.5,Cash,thomas.garcia95@example.com
+CUST00701,Elizabeth Martin,45,Male,Australia,2019-07-11,158.46,Debit Card,elizabeth.martin701@example.com
+CUST00455,John Smith,18,Female,Australia,2016-03-18,52.65,Debit Card,john.smith455@example.com
+CUST00278,Mary Taylor,38,Female,Australia,2024-09-06,47.6,Debit Card,mary.taylor278@example.com
+CUST00620,John Taylor,19,Female,Germany,2015-02-01,211.02,Cash,john.taylor620@example.com
+CUST00889,William Taylor,48,Female,India,2018-02-12,20.91,Credit Card,william.taylor889@example.com
+CUST00660,Barbara Davis,41,Female,Qatar,2022-07-17,90.9,Cash,barbara.davis660@example.com
+CUST00345,William Jones,34,Female,Germany,2016-07-05,125.12,Cash,william.jones345@example.com
+CUST00866,Elizabeth Hernandez,51,Female,France,2018-02-20,14.85,Paypal,elizabeth.hernandez866@example.com
+CUST00886,Linda Wilson,53,Female,France,2022-09-10,108.0,Cash,linda.wilson886@example.com
+CUST00934,Robert Taylor,41,Female,Germany,2021-07-02,114.09,Credit Card,robert.taylor934@example.com
+CUST00676,Robert Davis,26,Male,United Kingdom,2015-07-10,145.76,Paypal,robert.davis676@example.com
+CUST00035,Richard Gonzalez,36,Male,Australia,2020-12-24,109.34,Debit Card,richard.gonzalez35@example.com
+CUST00054,Barbara Hernandez,34,Female,United Kingdom,2016-09-11,213.46,Debit Card,barbara.hernandez54@example.com
+CUST00329,Robert Garcia,32,Female,United States,2015-04-15,157.94,Debit Card,robert.garcia329@example.com
+CUST00915,Sarah Anderson,37,Male,Canada,2016-07-17,167.82,Credit Card,sarah.anderson915@example.com
+CUST00524,Linda Wilson,31,Female,Brazil,2023-03-20,88.45,Debit Card,linda.wilson524@example.com
+CUST00978,Jennifer Brown,46,Male,United States,2021-10-16,85.2,Paypal,jennifer.brown978@example.com
+CUST00531,Mary Rodriguez,43,Female,Japan,2018-05-24,148.99,Credit Card,mary.rodriguez531@example.com
+CUST00653,Sarah Thomas,58,Male,Japan,2021-01-25,63.25,Debit Card,sarah.thomas653@example.com
+CUST00860,James Anderson,21,Male,India,2023-07-05,85.61,Cash,james.anderson860@example.com
+CUST00910,John Hernandez,57,Male,France,2021-06-08,171.85,Credit Card,john.hernandez910@example.com
+CUST00914,Susan Jackson,38,Female,Qatar,2022-10-26,73.91,Paypal,susan.jackson914@example.com
+CUST00327,James Martinez,44,Male,Australia,2020-12-02,163.64,Paypal,james.martinez327@example.com
+CUST00865,David Miller,11,Female,United Kingdom,2015-03-26,143.62,Cash,david.miller865@example.com
+CUST00460,Thomas Hernandez,53,Female,France,2022-09-04,227.27,Cash,thomas.hernandez460@example.com
+CUST00352,Robert Jones,32,Female,France,2018-06-12,167.57,Debit Card,robert.jones352@example.com
+CUST00958,Linda Thomas,40,Female,Qatar,2021-04-01,137.95,Cash,linda.thomas958@example.com
+CUST00740,Barbara Thomas,35,Male,Canada,2022-05-03,213.17,Debit Card,barbara.thomas740@example.com
+CUST00134,Barbara Garcia,38,Female,Qatar,2022-06-09,29.93,Paypal,barbara.garcia134@example.com
+CUST00980,William Taylor,37,Male,Australia,2015-12-18,174.08,Credit Card,william.taylor980@example.com
+CUST00221,Michael Rodriguez,41,Female,Qatar,2020-10-06,166.1,Paypal,michael.rodriguez221@example.com
+CUST00733,Linda Thomas,27,Female,Germany,2019-04-08,68.46,Credit Card,linda.thomas733@example.com
+CUST00573,James Thomas,24,Female,Australia,2023-06-10,132.65,Cash,james.thomas573@example.com
+CUST00907,Charles Taylor,38,Female,Australia,2023-02-07,113.42,Debit Card,charles.taylor907@example.com
+CUST00369,Patricia Rodriguez,70,Male,United States,2016-06-26,150.45,Credit Card,patricia.rodriguez369@example.com
+CUST00726,Robert Williams,48,Female,United Kingdom,2024-06-04,201.37,Debit Card,robert.williams726@example.com
+CUST00109,John Garcia,27,Male,United States,2022-04-14,138.62,Paypal,john.garcia109@example.com
+CUST00857,Susan Smith,38,Female,Canada,2021-03-18,150.91,Paypal,susan.smith857@example.com
+CUST00654,Sarah Thomas,40,Female,United States,2024-05-27,102.42,Cash,sarah.thomas654@example.com
+CUST00260,Sarah Lopez,28,Female,France,2023-07-24,121.59,Cash,sarah.lopez260@example.com
+CUST00554,Susan Jackson,25,Male,Canada,2019-12-18,55.67,Debit Card,susan.jackson554@example.com
+CUST00713,Barbara Taylor,34,Female,India,2017-08-18,138.45,Cash,barbara.taylor713@example.com
+CUST00319,Joseph Johnson,23,Male,Brazil,2015-07-15,101.87,Cash,joseph.johnson319@example.com
+CUST00568,Elizabeth Smith,23,Female,Australia,2021-08-09,100.01,Cash,elizabeth.smith568@example.com
+CUST00154,Richard Martin,26,Female,Australia,2016-04-06,156.21,Credit Card,richard.martin154@example.com
+CUST00141,Patricia Miller,55,Female,Germany,2017-12-02,115.39,Credit Card,patricia.miller141@example.com
+CUST00700,James Garcia,27,Male,United States,2016-07-08,115.69,Cash,james.garcia700@example.com
+CUST00604,David Miller,37,Male,Japan,2020-04-26,130.3,Cash,david.miller604@example.com
+CUST00927,Charles Davis,43,Female,Japan,2023-03-05,197.84,Credit Card,charles.davis927@example.com
+CUST00263,Joseph Gonzalez,37,Male,Japan,2024-04-21,12.84,Debit Card,joseph.gonzalez263@example.com
+CUST00658,Mary Davis,51,Female,United Kingdom,2015-09-22,137.7,Cash,mary.davis658@example.com
+CUST00027,Barbara Lopez,40,Female,United Kingdom,2024-02-17,107.07,Cash,barbara.lopez27@example.com
+CUST00058,David Taylor,39,Female,Brazil,2020-09-15,139.36,Cash,david.taylor58@example.com
+CUST00047,David Williams,38,Female,Canada,2022-02-11,126.22,Paypal,david.williams47@example.com
+CUST00996,Mary Martin,27,Male,Germany,2022-01-19,72.07,Credit Card,mary.martin996@example.com
+CUST00840,Patricia Thomas,45,Male,Australia,2022-06-07,121.59,Cash,patricia.thomas840@example.com
+CUST00099,Charles Wilson,27,Male,United States,2017-06-01,121.6,Cash,charles.wilson99@example.com
+CUST00298,John Thomas,17,Female,Japan,2023-07-14,102.9,Cash,john.thomas298@example.com
+CUST00446,Michael Rodriguez,48,Female,Qatar,2019-06-06,216.46,Cash,michael.rodriguez446@example.com
+CUST00696,Michael Martin,55,Male,Japan,2015-12-15,145.57,Credit Card,michael.martin696@example.com
+CUST00337,James Martin,37,Male,Qatar,2016-02-13,105.04,Paypal,james.martin337@example.com
+CUST00044,William Anderson,55,Female,Japan,2024-05-22,120.51,Debit Card,william.anderson44@example.com
+CUST00535,Sarah Thomas,44,Male,Australia,2023-07-05,158.18,Paypal,sarah.thomas535@example.com
+CUST00064,Elizabeth Jackson,26,Male,Japan,2015-07-08,95.76,Credit Card,elizabeth.jackson64@example.com
+CUST00563,Thomas Smith,32,Female,India,2021-07-07,32.37,Cash,thomas.smith563@example.com
+CUST00569,Linda Lopez,38,Female,Canada,2022-08-05,139.86,Credit Card,linda.lopez569@example.com
+CUST00039,Sarah Jackson,52,Male,India,2022-03-07,116.99,Cash,sarah.jackson39@example.com
+CUST00694,Joseph Rodriguez,21,Male,United Kingdom,2021-03-08,125.45,Debit Card,joseph.rodriguez694@example.com
+CUST00254,Robert Lopez,29,Female,Australia,2018-09-13,65.25,Debit Card,robert.lopez254@example.com
+CUST00351,Karen Johnson,61,Male,United States,2015-08-03,107.83,Credit Card,karen.johnson351@example.com
+CUST00939,Sarah Martinez,40,Female,Qatar,2023-04-18,121.59,Cash,sarah.martinez939@example.com
+CUST00792,Jessica Moore,56,Female,Canada,2020-10-01,150.2,Cash,jessica.moore792@example.com
+CUST00473,Karen Jones,33,Female,Germany,2022-02-07,131.02,Paypal,karen.jones473@example.com
+CUST00143,Charles Wilson,21,Male,Germany,2021-04-05,118.0,Cash,charles.wilson143@example.com
+CUST00206,Patricia Gonzalez,38,Female,India,2020-09-17,72.67,Debit Card,patricia.gonzalez206@example.com
+CUST00975,James Hernandez,14,Male,Canada,2019-08-14,121.59,Paypal,james.hernandez975@example.com
+CUST00741,Jessica Jones,35,Male,Germany,2018-01-25,168.4,Credit Card,jessica.jones741@example.com
+CUST00888,Elizabeth Anderson,32,Female,Germany,2017-07-27,101.54,Credit Card,elizabeth.anderson888@example.com
+CUST00187,Robert Martin,43,Male,Japan,2015-03-27,117.53,Debit Card,robert.martin187@example.com
+CUST00229,James Taylor,40,Male,Germany,2023-12-07,93.63,Paypal,james.taylor229@example.com
+CUST00819,Richard Hernandez,38,Male,Brazil,2022-08-12,23.15,Credit Card,richard.hernandez819@example.com
+CUST00322,Jennifer Thomas,23,Female,Qatar,2017-09-19,88.75,Credit Card,jennifer.thomas322@example.com
+CUST00062,Richard Miller,47,Male,Germany,2016-05-09,193.3,Cash,richard.miller62@example.com
+CUST00597,Jennifer Martin,34,Female,Germany,2017-07-03,181.79,Cash,jennifer.martin597@example.com
+CUST00508,Joseph Rodriguez,33,Male,Japan,2021-03-24,103.36,Cash,joseph.rodriguez508@example.com
+CUST00802,Patricia Moore,36,Male,Australia,2018-02-22,103.15,Cash,patricia.moore802@example.com
+CUST00519,Linda Anderson,67,Male,Canada,2023-03-10,137.18,Credit Card,linda.anderson519@example.com
+CUST00887,Sarah Lopez,28,Male,France,2020-01-04,106.36,Paypal,sarah.lopez887@example.com
+CUST00510,Thomas Rodriguez,19,Female,Brazil,2022-09-07,134.06,Cash,thomas.rodriguez510@example.com
+CUST00420,Mary Brown,49,Male,Japan,2021-08-10,156.27,Paypal,mary.brown420@example.com
+CUST00515,Sarah Rodriguez,47,Female,Japan,2021-11-07,127.68,Paypal,sarah.rodriguez515@example.com
+CUST00171,Richard Anderson,55,Male,United Kingdom,2023-10-04,163.33,Paypal,richard.anderson171@example.com
+CUST00501,Patricia Taylor,30,Male,Australia,2015-08-08,87.49,Debit Card,patricia.taylor501@example.com
+CUST00340,Thomas Brown,32,Female,India,2023-03-17,207.51,Credit Card,thomas.brown340@example.com
+CUST00110,Linda Williams,38,Male,Germany,2023-04-12,146.53,Credit Card,linda.williams110@example.com
+CUST00601,Joseph Anderson,30,Male,Australia,2018-12-27,53.39,Debit Card,joseph.anderson601@example.com
+CUST00450,William Miller,46,Female,United Kingdom,2015-03-27,194.89,Cash,william.miller450@example.com
+CUST00983,John Brown,31,Male,Brazil,2019-04-08,153.45,Credit Card,john.brown983@example.com
+CUST00458,John Martin,25,Male,Qatar,2022-04-26,129.39,Paypal,john.martin458@example.com
+CUST00205,Michael Thomas,28,Male,United Kingdom,2017-03-08,196.95,Paypal,michael.thomas205@example.com
+CUST00149,John Thomas,37,Female,France,2023-12-26,146.71,Paypal,john.thomas149@example.com
+CUST00571,Jennifer Moore,45,Female,Japan,2019-08-25,123.18,Cash,jennifer.moore571@example.com
+CUST00851,Charles Miller,38,Female,United States,2020-09-16,77.83,Paypal,charles.miller851@example.com
+CUST00953,Linda Rodriguez,44,Male,France,2021-07-20,61.81,Debit Card,linda.rodriguez953@example.com
+CUST00542,David Martinez,37,Female,India,2017-07-18,164.64,Paypal,david.martinez542@example.com
+CUST00509,Karen Moore,43,Male,United States,2024-06-04,68.87,Paypal,karen.moore509@example.com
+CUST00320,Jessica Miller,54,Female,Germany,2020-08-04,165.88,Credit Card,jessica.miller320@example.com
+CUST00129,Susan Thomas,30,Female,United States,2021-09-04,175.89,Credit Card,susan.thomas129@example.com
+CUST00880,William Moore,33,Female,Brazil,2024-06-02,176.97,Credit Card,william.moore880@example.com
+CUST00651,Thomas Jones,25,Female,Qatar,2022-04-02,111.57,Credit Card,thomas.jones651@example.com
+CUST00448,David Anderson,60,Male,Germany,2018-04-18,158.99,Debit Card,david.anderson448@example.com
+CUST00878,Richard Jones,41,Female,Qatar,2015-07-06,150.82,Cash,richard.jones878@example.com
+CUST00762,Elizabeth Moore,35,Female,France,2021-05-06,167.43,Credit Card,elizabeth.moore762@example.com
+CUST00720,Jennifer Hernandez,6,Male,Australia,2017-06-16,102.85,Paypal,jennifer.hernandez720@example.com
+CUST00238,James Rodriguez,46,Female,Germany,2016-07-19,161.52,Credit Card,james.rodriguez238@example.com
+CUST00716,Jessica Garcia,13,Female,Germany,2023-07-17,83.94,Credit Card,jessica.garcia716@example.com
+CUST00669,Karen Garcia,45,Female,Qatar,2022-10-12,86.88,Debit Card,karen.garcia669@example.com
+CUST00743,David Brown,63,Male,France,2024-09-08,40.17,Cash,david.brown743@example.com
+CUST00586,Thomas Johnson,6,Female,Qatar,2017-01-18,172.28,Credit Card,thomas.johnson586@example.com
+CUST00481,Susan Martinez,36,Male,Germany,2016-06-10,165.77,Cash,susan.martinez481@example.com
+CUST00490,Karen Hernandez,38,Male,Qatar,2016-12-09,108.42,Debit Card,karen.hernandez490@example.com
+CUST00135,Jessica Martin,43,Male,United Kingdom,2016-01-11,132.27,Cash,jessica.martin135@example.com
+CUST00603,Jessica Martin,26,Female,Australia,2017-11-03,41.66,Paypal,jessica.martin603@example.com
+CUST00271,Michael Hernandez,43,Female,Australia,2022-04-24,143.25,Credit Card,michael.hernandez271@example.com
+CUST00160,Joseph Hernandez,31,Female,Australia,2022-06-27,42.01,Cash,joseph.hernandez160@example.com
+CUST00643,Thomas Johnson,33,Female,Brazil,2016-06-20,75.56,Cash,thomas.johnson643@example.com
+CUST00438,Richard Hernandez,35,Female,India,2022-07-07,154.17,Credit Card,richard.hernandez438@example.com
+CUST00419,Sarah Davis,59,Male,Brazil,2015-01-20,94.3,Credit Card,sarah.davis419@example.com
+CUST00049,James Smith,47,Female,Brazil,2024-03-08,89.48,Cash,james.smith49@example.com
+CUST00766,Jennifer Lopez,24,Male,United States,2015-05-17,32.29,Paypal,jennifer.lopez766@example.com
+CUST00075,David Smith,31,Female,India,2017-03-12,192.49,Cash,david.smith75@example.com
+CUST00173,Robert Davis,38,Male,Australia,2023-08-09,54.43,Credit Card,robert.davis173@example.com
+CUST00243,Linda Garcia,22,Female,Australia,2024-05-10,138.33,Credit Card,linda.garcia243@example.com
+CUST00361,Elizabeth Miller,24,Female,United Kingdom,2015-08-02,162.18,Paypal,elizabeth.miller361@example.com
+CUST00718,James Hernandez,32,Female,Germany,2021-08-27,116.99,Credit Card,james.hernandez718@example.com
+CUST00272,Richard Lopez,49,Male,United States,2020-04-01,123.81,Credit Card,richard.lopez272@example.com
+CUST00847,Patricia Lopez,38,Female,Japan,2018-01-19,144.48,Credit Card,patricia.lopez847@example.com
+CUST00412,James Moore,56,Female,Australia,2018-02-23,59.89,Credit Card,james.moore412@example.com
+CUST00823,Richard Hernandez,38,Male,India,2021-07-17,78.95,Cash,richard.hernandez823@example.com
+CUST00729,Charles Hernandez,40,Female,Australia,2017-02-24,75.74,Paypal,charles.hernandez729@example.com
+CUST00779,William Miller,17,Female,United Kingdom,2017-02-09,139.75,Credit Card,william.miller779@example.com
+CUST00378,Richard Rodriguez,48,Male,Brazil,2016-02-03,131.62,Debit Card,richard.rodriguez378@example.com
+CUST00055,Charles Garcia,50,Male,India,2019-08-27,82.5,Cash,charles.garcia55@example.com
+CUST00579,Mary Rodriguez,39,Female,Japan,2023-04-23,111.99,Debit Card,mary.rodriguez579@example.com
+CUST00098,Richard Moore,38,Male,Qatar,2021-09-15,190.26,Cash,richard.moore98@example.com
+CUST00300,Barbara Williams,43,Female,United States,2024-01-16,128.23,Paypal,barbara.williams300@example.com
+CUST00724,Linda Lopez,38,Male,Qatar,2023-04-18,107.02,Credit Card,linda.lopez724@example.com
+CUST00904,Jennifer Garcia,52,Female,United Kingdom,2021-07-16,121.59,Debit Card,jennifer.garcia904@example.com
+CUST00695,Barbara Rodriguez,40,Female,United Kingdom,2019-07-01,94.6,Credit Card,barbara.rodriguez695@example.com
+CUST00128,Elizabeth Moore,33,Female,Brazil,2020-05-03,121.59,Credit Card,elizabeth.moore128@example.com
+CUST00558,Sarah Brown,38,Female,France,2018-11-14,146.07,Cash,sarah.brown558@example.com
+CUST00707,John Garcia,41,Female,India,2016-11-14,121.59,Debit Card,john.garcia707@example.com
+CUST00885,Sarah Gonzalez,24,Female,Brazil,2015-05-03,173.1,Cash,sarah.gonzalez885@example.com
+CUST00492,William Jackson,43,Male,Australia,2020-10-25,247.22,Cash,william.jackson492@example.com
+CUST00891,James Garcia,38,Female,Canada,2015-07-09,80.86,Cash,james.garcia891@example.com
+CUST00952,Robert Taylor,44,Male,United Kingdom,2024-12-07,129.0,Paypal,robert.taylor952@example.com
+CUST00081,Sarah Smith,38,Male,France,2022-08-12,176.33,Debit Card,sarah.smith81@example.com
+CUST00159,Michael Hernandez,34,Female,Qatar,2023-11-04,206.08,Credit Card,michael.hernandez159@example.com
+CUST00751,David Williams,40,Female,Canada,2019-05-07,192.99,Debit Card,david.williams751@example.com
+CUST00358,James Garcia,40,Female,France,2015-01-21,121.59,Debit Card,james.garcia358@example.com
+CUST00717,Susan Rodriguez,63,Male,Brazil,2016-04-23,132.9,Cash,susan.rodriguez717@example.com
+CUST00929,Karen Thomas,38,Female,Australia,2016-12-27,134.25,Debit Card,karen.thomas929@example.com
+CUST00680,Michael Taylor,34,Male,United Kingdom,2020-08-10,185.07,Paypal,michael.taylor680@example.com
+CUST00474,Elizabeth Jones,40,Male,France,2023-11-04,20.31,Paypal,elizabeth.jones474@example.com
+CUST00735,Sarah Anderson,63,Male,Germany,2015-08-21,145.5,Credit Card,sarah.anderson735@example.com
+CUST00747,Jennifer Wilson,32,Male,India,2018-06-07,160.62,Debit Card,jennifer.wilson747@example.com
+CUST00368,Thomas Smith,38,Male,Australia,2023-12-19,113.97,Credit Card,thomas.smith368@example.com
+CUST00977,David Thomas,43,Male,Germany,2021-08-12,102.33,Credit Card,david.thomas977@example.com
+CUST00967,Linda Smith,28,Female,Japan,2020-03-01,210.69,Paypal,linda.smith967@example.com
+CUST00376,Elizabeth Jones,55,Female,Japan,2019-11-13,93.36,Credit Card,elizabeth.jones376@example.com
+CUST00325,David Rodriguez,56,Male,France,2023-03-16,124.25,Paypal,david.rodriguez325@example.com
+CUST00674,Thomas Miller,27,Female,Brazil,2022-10-18,121.59,Paypal,thomas.miller674@example.com
+CUST00672,Sarah Lopez,52,Female,Qatar,2016-09-26,134.28,Credit Card,sarah.lopez672@example.com
+CUST00180,Richard Taylor,62,Male,Qatar,2015-11-21,188.24,Credit Card,richard.taylor180@example.com
+CUST00973,Linda Wilson,48,Female,United Kingdom,2022-09-26,133.2,Cash,linda.wilson973@example.com
+CUST00991,Charles Moore,26,Female,Japan,2018-07-02,117.61,Paypal,charles.moore991@example.com
+CUST00257,David Garcia,40,Female,Canada,2018-08-09,83.4,Cash,david.garcia257@example.com
+CUST00123,David Anderson,39,Female,Brazil,2017-05-25,77.0,Cash,david.anderson123@example.com
+CUST00532,Karen Smith,35,Female,United Kingdom,2016-09-03,79.58,Cash,karen.smith532@example.com
+CUST00782,Mary Moore,40,Female,Qatar,2024-09-26,131.23,Debit Card,mary.moore782@example.com
+CUST00871,William Miller,35,Female,France,2024-03-25,36.85,Cash,william.miller871@example.com
+CUST00894,Mary Martinez,19,Female,United States,2022-07-26,98.84,Credit Card,mary.martinez894@example.com
+CUST00423,Jessica Martin,38,Female,Brazil,2023-05-20,173.58,Cash,jessica.martin423@example.com
+CUST00454,John Williams,21,Female,Brazil,2024-07-12,149.81,Credit Card,john.williams454@example.com
+CUST00587,Robert Johnson,37,Female,France,2018-06-03,45.69,Paypal,robert.johnson587@example.com
+CUST00997,Michael Moore,25,Female,United Kingdom,2016-04-13,195.3,Credit Card,michael.moore997@example.com
+CUST00964,Robert Anderson,47,Female,Germany,2015-11-25,101.19,Credit Card,robert.anderson964@example.com
+CUST00809,Barbara Moore,47,Female,Australia,2023-06-23,162.8,Debit Card,barbara.moore809@example.com
+CUST00867,Barbara Martinez,34,Male,United States,2018-09-19,135.79,Credit Card,barbara.martinez867@example.com
+CUST00684,David Williams,51,Female,Brazil,2020-09-19,170.94,Cash,david.williams684@example.com
+CUST00578,Elizabeth Martinez,12,Male,Brazil,2016-05-16,131.45,Debit Card,elizabeth.martinez578@example.com
+CUST00148,Linda Lopez,38,Male,Australia,2020-09-02,164.97,Cash,linda.lopez148@example.com
+CUST00363,Susan Smith,38,Male,Canada,2023-06-23,130.58,Cash,susan.smith363@example.com
+CUST00356,Patricia Thomas,38,Female,India,2016-12-09,184.06,Debit Card,patricia.thomas356@example.com
+CUST00816,James Rodriguez,35,Male,United Kingdom,2018-07-13,90.23,Debit Card,james.rodriguez816@example.com
+CUST00052,Richard Hernandez,25,Male,Canada,2023-06-20,92.77,Credit Card,richard.hernandez52@example.com
+CUST00839,Jennifer Jones,26,Male,Brazil,2023-12-25,80.61,Debit Card,jennifer.jones839@example.com
+CUST00400,Elizabeth Rodriguez,42,Male,France,2024-08-20,183.16,Cash,elizabeth.rodriguez400@example.com
+CUST00023,Jennifer Smith,21,Female,United States,2022-10-03,70.18,Cash,jennifer.smith23@example.com
+CUST00708,Elizabeth Jackson,11,Male,Canada,2019-03-05,154.98,Credit Card,elizabeth.jackson708@example.com
+CUST00644,John Anderson,48,Female,Qatar,2022-12-09,109.75,Credit Card,john.anderson644@example.com
+CUST00834,Michael Anderson,36,Female,United States,2020-12-19,140.0,Cash,michael.anderson834@example.com
+CUST00210,Robert Johnson,37,Male,Qatar,2020-09-20,105.27,Credit Card,robert.johnson210@example.com
+CUST00309,Barbara Anderson,55,Male,Canada,2018-03-16,227.67,Debit Card,barbara.anderson309@example.com
+CUST00051,David Gonzalez,27,Male,Qatar,2015-03-01,156.16,Cash,david.gonzalez51@example.com
+CUST00167,Charles Taylor,35,Female,Germany,2016-09-08,78.99,Paypal,charles.taylor167@example.com
+CUST00636,Barbara Johnson,15,Male,Germany,2019-08-22,112.75,Paypal,barbara.johnson636@example.com
+CUST00786,Mary Garcia,45,Male,Qatar,2020-06-13,84.07,Debit Card,mary.garcia786@example.com
+CUST00082,Jennifer Taylor,31,Female,United Kingdom,2018-02-12,121.59,Cash,jennifer.taylor82@example.com
+CUST00506,Susan Jackson,38,Female,Australia,2019-08-06,136.13,Paypal,susan.jackson506@example.com
+CUST00921,Susan Garcia,45,Female,United Kingdom,2017-07-22,104.15,Debit Card,susan.garcia921@example.com
+CUST00067,William Jackson,28,Female,Australia,2020-06-23,80.0,Cash,william.jackson67@example.com
+CUST00591,Richard Jones,52,Female,United Kingdom,2023-09-12,121.76,Debit Card,richard.jones591@example.com
+CUST00912,Barbara Taylor,38,Male,Qatar,2019-01-14,164.78,Credit Card,barbara.taylor912@example.com
+CUST00290,Charles Lopez,40,Male,United States,2018-01-07,182.0,Credit Card,charles.lopez290@example.com
+CUST00548,Linda Jackson,46,Male,Canada,2022-07-27,97.96,Debit Card,linda.jackson548@example.com
+CUST00284,James Taylor,39,Male,Brazil,2020-02-25,75.76,Credit Card,james.taylor284@example.com
+CUST00811,Richard Rodriguez,55,Female,United States,2020-09-04,129.41,Debit Card,richard.rodriguez811@example.com
+CUST00526,Jennifer Jones,47,Female,Brazil,2020-02-18,155.34,Debit Card,jennifer.jones526@example.com
+CUST00065,Joseph Martinez,28,Male,Brazil,2023-08-16,108.6,Paypal,joseph.martinez65@example.com
+CUST00992,Karen Thomas,44,Male,Australia,2015-10-22,124.52,Paypal,karen.thomas992@example.com
+CUST00265,Patricia Thomas,47,Male,United Kingdom,2021-12-23,70.93,Cash,patricia.thomas265@example.com
+CUST00791,Jessica Lopez,33,Female,France,2017-07-24,206.44,Cash,jessica.lopez791@example.com
+CUST00859,Richard Williams,51,Female,United Kingdom,2017-01-05,64.4,Paypal,richard.williams859@example.com
+CUST00776,Joseph Gonzalez,61,Female,India,2016-04-22,108.09,Credit Card,joseph.gonzalez776@example.com
+CUST00021,Richard Hernandez,37,Male,United Kingdom,2019-12-27,191.06,Cash,richard.hernandez21@example.com
+CUST00421,Mary Thomas,37,Female,Canada,2017-02-08,36.63,Credit Card,mary.thomas421@example.com
+CUST00784,David Jackson,49,Female,India,2023-02-04,150.43,Cash,david.jackson784@example.com
+CUST00884,Karen Martinez,49,Female,Japan,2017-05-20,95.6,Paypal,karen.martinez884@example.com
+CUST00297,Barbara Martin,38,Female,Germany,2022-10-14,105.96,Cash,barbara.martin297@example.com
+CUST00853,Jessica Hernandez,67,Female,Australia,2021-01-24,196.35,Cash,jessica.hernandez853@example.com
+CUST00545,Joseph Davis,32,Male,Brazil,2015-10-08,137.19,Cash,joseph.davis545@example.com
+CUST00262,Mary Brown,34,Male,Qatar,2020-08-06,142.15,Credit Card,mary.brown262@example.com
+CUST00390,Jennifer Moore,20,Male,Germany,2018-10-02,78.73,Paypal,jennifer.moore390@example.com
+CUST00667,Richard Lopez,40,Male,Japan,2021-07-09,22.91,Cash,richard.lopez667@example.com
+CUST00514,John Miller,46,Female,Qatar,2024-03-20,134.01,Cash,john.miller514@example.com
+CUST00335,Barbara Jones,56,Female,India,2022-06-20,71.69,Paypal,barbara.jones335@example.com
+CUST00583,Susan Gonzalez,34,Male,France,2022-07-16,48.42,Cash,susan.gonzalez583@example.com
+CUST00483,Sarah Martinez,41,Female,Japan,2023-02-13,209.75,Paypal,sarah.martinez483@example.com
+CUST00189,Richard Garcia,37,Male,Japan,2020-05-26,121.59,Credit Card,richard.garcia189@example.com
+CUST00252,Susan Davis,25,Male,Canada,2016-09-04,150.49,Paypal,susan.davis252@example.com
+CUST00072,Jessica Martin,47,Female,Australia,2024-12-03,177.35,Cash,jessica.martin72@example.com
+CUST00690,Michael Martinez,22,Female,United Kingdom,2015-12-01,143.8,Credit Card,michael.martinez690@example.com
+CUST00385,Richard Smith,44,Male,Japan,2015-04-04,143.22,Paypal,richard.smith385@example.com
+CUST00348,Joseph Jones,28,Female,India,2024-10-07,189.54,Cash,joseph.jones348@example.com
+CUST00614,Robert Rodriguez,28,Male,Australia,2018-03-09,90.25,Paypal,robert.rodriguez614@example.com
+CUST00951,Jennifer Gonzalez,43,Male,Brazil,2019-11-05,202.64,Credit Card,jennifer.gonzalez951@example.com
+CUST00366,Charles Taylor,38,Female,Canada,2016-12-03,167.96,Debit Card,charles.taylor366@example.com
+CUST00331,Linda Martin,49,Female,Germany,2016-05-12,130.38,Debit Card,linda.martin331@example.com
+CUST00398,Elizabeth Garcia,37,Female,France,2021-04-05,70.24,Cash,elizabeth.garcia398@example.com
+CUST00570,Susan Wilson,57,Male,Canada,2021-07-03,70.4,Credit Card,susan.wilson570@example.com
+CUST00826,Jessica Johnson,42,Female,Germany,2022-02-20,121.59,Cash,jessica.johnson826@example.com
+CUST00827,Robert Jackson,42,Female,United Kingdom,2023-03-06,128.37,Cash,robert.jackson827@example.com
+CUST00692,Thomas Hernandez,52,Female,United States,2015-02-02,17.71,Cash,thomas.hernandez692@example.com
+CUST00409,Thomas Martin,57,Female,Australia,2017-06-22,142.98,Debit Card,thomas.martin409@example.com
+CUST00427,Joseph Jones,38,Male,France,2017-11-03,48.81,Paypal,joseph.jones427@example.com
+CUST00504,Barbara Garcia,20,Female,United Kingdom,2024-04-22,145.58,Cash,barbara.garcia504@example.com
+CUST00453,Susan Martinez,33,Female,Germany,2015-07-06,14.71,Debit Card,susan.martinez453@example.com
+CUST00219,Barbara Jackson,33,Female,Canada,2023-08-04,66.25,Cash,barbara.jackson219@example.com
+CUST00240,James Lopez,51,Female,India,2022-05-04,97.82,Cash,james.lopez240@example.com
+CUST00665,Michael Gonzalez,50,Male,United Kingdom,2023-11-06,137.23,Credit Card,michael.gonzalez665@example.com
+CUST00193,Susan Hernandez,52,Male,Qatar,2024-11-22,144.13,Credit Card,susan.hernandez193@example.com
+CUST00499,Michael Garcia,54,Male,France,2024-09-07,196.15,Credit Card,michael.garcia499@example.com
+CUST00192,William Johnson,35,Female,United States,2023-08-08,52.86,Credit Card,william.johnson192@example.com
+CUST00485,Thomas Wilson,43,Male,France,2024-08-12,109.85,Cash,thomas.wilson485@example.com
+CUST00505,Barbara Smith,56,Female,Australia,2017-09-05,98.81,Credit Card,barbara.smith505@example.com
+CUST00631,James Lopez,49,Female,India,2022-04-09,108.36,Debit Card,james.lopez631@example.com
+CUST00133,Patricia Smith,12,Male,France,2020-06-23,112.58,Credit Card,patricia.smith133@example.com
+CUST00346,Sarah Smith,37,Female,Australia,2015-05-07,183.45,Credit Card,sarah.smith346@example.com
+CUST00253,Elizabeth Brown,26,Male,Germany,2018-07-11,147.22,Cash,elizabeth.brown253@example.com
+CUST00686,James Martinez,61,Male,Australia,2019-11-05,195.33,Debit Card,james.martinez686@example.com
+CUST00918,Robert Hernandez,33,Male,France,2019-03-03,155.82,Debit Card,robert.hernandez918@example.com
+CUST00264,Mary Miller,41,Male,France,2021-11-17,84.68,Credit Card,mary.miller264@example.com
+CUST00273,James Miller,48,Female,Australia,2022-10-11,156.53,Credit Card,james.miller273@example.com
+CUST00986,Richard Thomas,62,Female,United Kingdom,2022-05-04,171.3,Cash,richard.thomas986@example.com
+CUST00328,Barbara Garcia,39,Female,Brazil,2019-01-01,94.36,Credit Card,barbara.garcia328@example.com
+CUST00116,Patricia Johnson,42,Female,Japan,2019-04-25,147.19,Cash,patricia.johnson116@example.com
+CUST00324,Thomas Thomas,35,Female,Germany,2017-07-11,99.13,Credit Card,thomas.thomas324@example.com
+CUST00981,Joseph Davis,29,Male,Canada,2020-06-12,70.08,Cash,joseph.davis981@example.com
+CUST00678,James Johnson,15,Female,Japan,2021-07-03,95.76,Cash,james.johnson678@example.com
+CUST00373,Patricia Martin,23,Male,Japan,2024-04-17,166.11,Paypal,patricia.martin373@example.com
+CUST00625,Susan Moore,31,Male,Australia,2017-11-27,133.82,Debit Card,susan.moore625@example.com
+CUST00721,Sarah Martin,38,Female,Germany,2017-11-18,60.31,Cash,sarah.martin721@example.com
+CUST00789,Jessica Thomas,23,Female,Qatar,2023-11-27,190.06,Cash,jessica.thomas789@example.com
+CUST00668,John Brown,38,Female,United Kingdom,2016-02-13,154.46,Paypal,john.brown668@example.com
+CUST00869,Jessica Martin,42,Male,Qatar,2019-03-27,73.97,Paypal,jessica.martin869@example.com
+CUST00979,Mary Jackson,34,Female,India,2021-05-23,132.96,Credit Card,mary.jackson979@example.com
+CUST00862,Richard Jackson,47,Female,France,2019-05-17,60.53,Cash,richard.jackson862@example.com
+CUST00279,William Wilson,14,Male,United States,2017-05-13,100.11,Paypal,william.wilson279@example.com
+CUST00801,Karen Miller,27,Male,United States,2018-11-25,155.79,Debit Card,karen.miller801@example.com
+CUST00663,Linda Martinez,27,Male,Australia,2020-07-22,149.65,Paypal,linda.martinez663@example.com
+CUST00003,Sarah Johnson,48,Male,Qatar,2022-05-02,113.05,Cash,sarah.johnson3@example.com
+CUST00230,Elizabeth Garcia,35,Male,United Kingdom,2019-06-02,155.84,Credit Card,elizabeth.garcia230@example.com
+CUST00527,Patricia Brown,38,Male,India,2018-07-08,88.31,Paypal,patricia.brown527@example.com
+CUST00946,Jennifer Brown,35,Female,France,2016-03-08,72.77,Credit Card,jennifer.brown946@example.com
+CUST00472,David Thomas,38,Male,Germany,2017-01-01,145.74,Paypal,david.thomas472@example.com
+CUST00874,John Lopez,41,Female,France,2024-01-08,112.25,Paypal,john.lopez874@example.com
+CUST00200,Robert Rodriguez,41,Male,Brazil,2023-10-02,148.84,Credit Card,robert.rodriguez200@example.com
+CUST00372,Thomas Miller,44,Male,United States,2017-01-01,58.71,Debit Card,thomas.miller372@example.com
+CUST00876,James Hernandez,58,Female,Germany,2019-03-16,138.96,Cash,james.hernandez876@example.com
+CUST00670,Patricia Anderson,51,Male,Brazil,2020-04-14,111.53,Cash,patricia.anderson670@example.com
+CUST00066,Mary Anderson,46,Male,Japan,2023-04-14,211.58,Cash,mary.anderson66@example.com
+CUST00486,David Taylor,25,Male,Germany,2019-10-15,123.31,Debit Card,david.taylor486@example.com
+CUST00041,Richard Brown,51,Male,Germany,2019-09-15,138.63,Cash,richard.brown41@example.com
+CUST00757,Michael Williams,14,Female,Qatar,2022-10-26,176.3,Credit Card,michael.williams757@example.com
+CUST00494,Sarah Martinez,52,Male,United States,2020-07-22,81.82,Credit Card,sarah.martinez494@example.com
+CUST00443,Thomas Taylor,37,Female,Brazil,2021-06-14,164.23,Paypal,thomas.taylor443@example.com
+CUST00516,Richard Wilson,20,Male,United States,2019-11-19,205.86,Credit Card,richard.wilson516@example.com
+CUST00965,Charles Smith,37,Female,Brazil,2022-10-05,93.07,Paypal,charles.smith965@example.com
+CUST00830,William Anderson,28,Female,Brazil,2023-01-27,157.92,Debit Card,william.anderson830@example.com
+CUST00274,Karen Garcia,29,Female,France,2021-08-06,118.32,Debit Card,karen.garcia274@example.com
+CUST00709,Thomas Martinez,40,Female,Germany,2015-03-22,165.77,Credit Card,thomas.martinez709@example.com
+CUST00642,Joseph Martinez,23,Male,United Kingdom,2022-01-11,178.7,Paypal,joseph.martinez642@example.com
+CUST00772,Barbara Williams,44,Female,Japan,2016-02-16,103.89,Credit Card,barbara.williams772@example.com
+CUST00038,Elizabeth Wilson,47,Female,India,2015-04-05,66.98,Paypal,elizabeth.wilson38@example.com
+CUST00602,Patricia Thomas,27,Female,India,2022-04-18,220.43,Cash,patricia.thomas602@example.com
+CUST00203,Richard Rodriguez,20,Female,Qatar,2018-03-13,83.11,Credit Card,richard.rodriguez203@example.com
+CUST00237,Patricia Rodriguez,44,Male,Australia,2018-07-25,97.79,Credit Card,patricia.rodriguez237@example.com
+CUST00150,Susan Jackson,33,Female,France,2024-01-17,192.9,Credit Card,susan.jackson150@example.com
+CUST00218,Robert Brown,21,Female,Germany,2018-01-13,247.22,Credit Card,robert.brown218@example.com
+CUST00849,Linda Rodriguez,38,Male,Japan,2015-07-05,121.59,Debit Card,linda.rodriguez849@example.com
+CUST00734,Joseph Taylor,49,Female,United Kingdom,2022-08-09,164.58,Paypal,joseph.taylor734@example.com
+CUST00559,Robert Jones,38,Female,Brazil,2018-01-23,140.3,Cash,robert.jones559@example.com
+CUST00622,Jessica Anderson,41,Male,Qatar,2019-02-26,29.18,Paypal,jessica.anderson622@example.com
+CUST00855,John Davis,44,Female,Japan,2021-07-10,122.57,Debit Card,john.davis855@example.com
+CUST00303,William Jones,18,Male,Japan,2024-11-03,166.72,Paypal,william.jones303@example.com
+CUST00873,James Johnson,40,Female,Australia,2017-04-16,85.21,Debit Card,james.johnson873@example.com
+CUST00933,Patricia Lopez,46,Female,Australia,2024-10-10,161.19,Debit Card,patricia.lopez933@example.com
+CUST00682,Barbara Jackson,52,Male,France,2019-04-01,141.72,Paypal,barbara.jackson682@example.com
+CUST00962,Thomas Rodriguez,43,Female,Canada,2020-10-13,106.18,Credit Card,thomas.rodriguez962@example.com
+CUST00389,Robert Hernandez,35,Female,India,2017-06-17,154.39,Cash,robert.hernandez389@example.com
+CUST00432,Charles Miller,29,Female,Australia,2015-01-23,146.86,Paypal,charles.miller432@example.com
+CUST00388,Elizabeth Jackson,38,Female,France,2018-04-24,35.15,Cash,elizabeth.jackson388@example.com
+CUST00906,Linda Rodriguez,33,Female,Japan,2018-12-17,101.68,Paypal,linda.rodriguez906@example.com
+CUST00391,Charles Rodriguez,28,Male,Japan,2024-06-07,96.4,Credit Card,charles.rodriguez391@example.com
+CUST00957,Barbara Jones,21,Female,United States,2023-06-18,112.64,Cash,barbara.jones957@example.com
+CUST00353,Linda Moore,31,Female,Japan,2016-06-25,85.7,Paypal,linda.moore353@example.com
+CUST00194,David Thomas,42,Male,United States,2022-02-27,115.38,Debit Card,david.thomas194@example.com
+CUST00236,Jennifer Thomas,30,Female,United States,2024-12-27,116.86,Credit Card,jennifer.thomas236@example.com
+CUST00452,Robert Gonzalez,41,Female,Qatar,2016-07-03,86.0,Credit Card,robert.gonzalez452@example.com
+CUST00850,Jennifer Taylor,32,Male,United Kingdom,2024-04-21,107.4,Credit Card,jennifer.taylor850@example.com
+CUST00056,Barbara Gonzalez,38,Male,Germany,2019-07-02,121.59,Paypal,barbara.gonzalez56@example.com
+CUST00697,Michael Anderson,40,Male,Canada,2017-12-18,121.59,Paypal,michael.anderson697@example.com
+CUST00097,Patricia Wilson,41,Male,United Kingdom,2023-12-25,24.75,Credit Card,patricia.wilson97@example.com
+CUST00142,Patricia Miller,29,Female,Australia,2018-04-26,97.99,Credit Card,patricia.miller142@example.com
+CUST00710,Richard Martin,38,Male,Brazil,2016-03-13,198.4,Paypal,richard.martin710@example.com
+CUST00877,Sarah Martin,22,Female,Japan,2021-05-05,93.58,Paypal,sarah.martin877@example.com
+CUST00553,David Martinez,37,Female,Canada,2023-07-04,111.54,Cash,david.martinez553@example.com
+CUST00922,Linda Jackson,14,Female,Japan,2024-10-01,87.21,Debit Card,linda.jackson922@example.com
+CUST00121,Joseph Thomas,11,Female,Australia,2021-01-09,129.12,Cash,joseph.thomas121@example.com
+CUST00610,Michael Rodriguez,62,Female,India,2015-01-23,86.87,Debit Card,michael.rodriguez610@example.com
+CUST00821,Jessica Brown,16,Female,Qatar,2024-05-15,167.75,Cash,jessica.brown821@example.com
+CUST00063,John Taylor,38,Female,Germany,2023-09-05,125.92,Debit Card,john.taylor63@example.com
+CUST00771,Barbara Wilson,37,Female,Qatar,2022-10-07,121.59,Paypal,barbara.wilson771@example.com
+CUST00466,Patricia Martinez,35,Male,Germany,2016-02-06,132.3,Debit Card,patricia.martinez466@example.com
+CUST00415,Thomas Hernandez,35,Female,United Kingdom,2019-01-19,63.48,Credit Card,thomas.hernandez415@example.com
+CUST00004,Patricia Davis,42,Female,Qatar,2021-12-21,96.95,Cash,patricia.davis4@example.com
+CUST00059,Linda Martinez,45,Male,Brazil,2023-01-03,140.43,Cash,linda.martinez59@example.com
+CUST00224,Charles Jones,44,Female,United States,2023-12-17,166.14,Debit Card,charles.jones224@example.com
+CUST00628,Robert Gonzalez,20,Female,Canada,2019-06-19,147.93,Credit Card,robert.gonzalez628@example.com
+CUST00102,Joseph Jones,20,Female,Brazil,2018-04-13,59.6,Credit Card,joseph.jones102@example.com
+CUST00732,Elizabeth Wilson,68,Female,Brazil,2017-01-05,175.48,Paypal,elizabeth.wilson732@example.com
+CUST00222,Richard Wilson,34,Male,France,2019-12-02,71.59,Credit Card,richard.wilson222@example.com
+CUST00479,Robert Johnson,55,Female,Canada,2016-02-09,144.62,Debit Card,robert.johnson479@example.com
+CUST00005,Mary Martinez,51,Female,Germany,2018-03-16,153.45,Paypal,mary.martinez5@example.com
+CUST00053,Linda Martin,30,Male,India,2023-07-13,179.43,Debit Card,linda.martin53@example.com
+CUST00756,Susan Hernandez,37,Female,United Kingdom,2020-07-22,70.74,Debit Card,susan.hernandez756@example.com
+CUST00925,Charles Garcia,41,Female,United States,2017-07-19,111.09,Debit Card,charles.garcia925@example.com
+CUST00307,Joseph Davis,28,Male,Germany,2020-02-26,120.24,Debit Card,joseph.davis307@example.com
+CUST00675,John Moore,65,Male,United States,2021-08-27,151.55,Cash,john.moore675@example.com
+CUST00156,Robert Davis,19,Female,Germany,2024-07-26,114.43,Debit Card,robert.davis156@example.com
+CUST00493,John Moore,42,Female,Australia,2023-03-25,151.71,Credit Card,john.moore493@example.com
+CUST00745,Charles Johnson,43,Female,Brazil,2021-02-16,206.14,Debit Card,charles.johnson745@example.com
+CUST00652,Jessica Moore,40,Female,Japan,2018-04-05,111.53,Cash,jessica.moore652@example.com
+CUST00249,Jessica Davis,31,Female,Brazil,2024-04-19,102.99,Paypal,jessica.davis249@example.com
+CUST00250,Thomas Brown,40,Male,Canada,2023-04-16,105.05,Credit Card,thomas.brown250@example.com
+CUST00359,Elizabeth Martin,27,Female,India,2015-09-02,177.04,Debit Card,elizabeth.martin359@example.com
+CUST00488,Karen Smith,20,Male,United Kingdom,2024-02-25,87.26,Cash,karen.smith488@example.com
+CUST00431,Karen Wilson,53,Male,Germany,2017-05-15,64.8,Cash,karen.wilson431@example.com
+CUST00442,Thomas Rodriguez,56,Female,Qatar,2023-06-08,147.9,Credit Card,thomas.rodriguez442@example.com
+CUST00829,Charles Martinez,33,Male,United States,2022-02-05,111.42,Cash,charles.martinez829@example.com
+CUST00863,William Lopez,34,Female,Australia,2016-01-11,129.02,Cash,william.lopez863@example.com
+CUST00031,Charles Jackson,43,Female,United Kingdom,2015-02-09,95.01,Credit Card,charles.jackson31@example.com
+CUST00282,Linda Lopez,29,Female,Germany,2023-11-01,107.37,Debit Card,linda.lopez282@example.com
+CUST00687,Elizabeth Thomas,34,Male,Qatar,2020-06-11,197.31,Debit Card,elizabeth.thomas687@example.com
+CUST00984,Sarah Johnson,38,Female,India,2017-08-07,152.17,Paypal,sarah.johnson984@example.com
+CUST00118,David Anderson,47,Female,Germany,2018-12-09,120.13,Debit Card,david.anderson118@example.com
+CUST00738,Thomas Lopez,55,Male,India,2019-04-13,37.39,Debit Card,thomas.lopez738@example.com
+CUST00117,Jessica Wilson,48,Female,Australia,2022-11-09,135.87,Paypal,jessica.wilson117@example.com
+CUST00529,Karen Wilson,50,Female,Brazil,2019-03-23,120.95,Cash,karen.wilson529@example.com
+CUST00677,David Martinez,33,Male,India,2023-03-07,102.78,Cash,david.martinez677@example.com
+CUST00292,Jessica Martin,31,Female,United States,2019-11-01,121.59,Paypal,jessica.martin292@example.com
+CUST00028,Richard Thomas,41,Male,Brazil,2017-10-13,112.68,Cash,richard.thomas28@example.com
+CUST00382,Michael Davis,33,Female,United States,2019-10-04,198.46,Paypal,michael.davis382@example.com
+CUST00552,Susan Rodriguez,34,Male,Australia,2022-01-22,84.85,Credit Card,susan.rodriguez552@example.com
+CUST00681,William Davis,50,Female,United Kingdom,2021-12-13,155.08,Cash,william.davis681@example.com
+CUST00201,Karen Brown,30,Female,Brazil,2016-06-04,57.1,Cash,karen.brown201@example.com
+CUST00581,Susan Smith,17,Male,Germany,2023-02-23,132.4,Debit Card,susan.smith581@example.com
+CUST00386,John Lopez,32,Female,France,2019-02-08,168.94,Credit Card,john.lopez386@example.com
+CUST00725,Jennifer Taylor,29,Female,Australia,2021-06-21,121.07,Credit Card,jennifer.taylor725@example.com
+CUST00673,Richard Garcia,53,Female,Qatar,2022-11-07,247.22,Cash,richard.garcia673@example.com
+CUST00808,Thomas Lopez,36,Female,Australia,2017-04-18,126.13,Cash,thomas.lopez808@example.com
+CUST00758,Linda Jones,39,Male,India,2021-01-04,137.91,Debit Card,linda.jones758@example.com
+CUST00315,David Wilson,43,Female,India,2022-12-17,69.96,Paypal,david.wilson315@example.com
+CUST00512,Linda Martin,26,Female,United States,2021-06-21,63.0,Debit Card,linda.martin512@example.com
+CUST00281,Jennifer Taylor,9,Female,Australia,2015-05-16,55.14,Credit Card,jennifer.taylor281@example.com
+CUST00968,Elizabeth Rodriguez,38,Male,Brazil,2017-09-26,109.37,Debit Card,elizabeth.rodriguez968@example.com
+CUST00769,Linda Martinez,48,Male,Australia,2015-07-25,59.51,Paypal,linda.martinez769@example.com
+CUST00354,Jennifer Brown,46,Male,United States,2024-04-18,121.59,Paypal,jennifer.brown354@example.com
+CUST00208,David Martinez,51,Female,Germany,2024-07-18,185.81,Debit Card,david.martinez208@example.com
+CUST00380,Charles Martinez,42,Male,Germany,2018-03-10,121.59,Paypal,charles.martinez380@example.com
+CUST00777,Mary Jones,27,Female,Qatar,2022-07-27,209.67,Cash,mary.jones777@example.com
+CUST00413,Jennifer Anderson,28,Female,Australia,2020-10-24,108.01,Paypal,jennifer.anderson413@example.com
+CUST00024,Jessica Miller,37,Female,Japan,2015-03-07,148.98,Credit Card,jessica.miller24@example.com
+CUST00341,Patricia Johnson,25,Female,France,2024-02-06,91.0,Credit Card,patricia.johnson341@example.com
+CUST00706,David Smith,43,Female,Australia,2018-11-09,76.65,Cash,david.smith706@example.com
+CUST00650,Jessica Johnson,51,Female,France,2018-12-27,166.19,Paypal,jessica.johnson650@example.com
+CUST00155,Jennifer Anderson,60,Male,Japan,2020-07-13,85.78,Paypal,jennifer.anderson155@example.com
+CUST00875,Elizabeth Lopez,42,Male,Australia,2022-09-12,99.31,Credit Card,elizabeth.lopez875@example.com
+CUST00566,Mary Brown,38,Male,Germany,2019-01-13,91.03,Credit Card,mary.brown566@example.com
+CUST00868,Karen Miller,28,Male,Canada,2019-07-27,157.79,Cash,karen.miller868@example.com
+CUST00799,Robert Hernandez,37,Male,Brazil,2022-04-24,141.65,Cash,robert.hernandez799@example.com
+CUST00323,Charles Anderson,48,Male,Brazil,2020-09-04,121.59,Credit Card,charles.anderson323@example.com
+CUST00612,Susan Garcia,55,Male,France,2023-03-06,141.92,Paypal,susan.garcia612@example.com
+CUST00595,Robert Johnson,28,Male,Japan,2023-01-25,111.54,Debit Card,robert.johnson595@example.com
+CUST00083,William Williams,10,Male,Canada,2015-07-01,78.82,Credit Card,william.williams83@example.com
+CUST00592,Karen Garcia,48,Male,Germany,2018-03-18,110.06,Credit Card,karen.garcia592@example.com
+CUST00465,Michael Garcia,52,Female,France,2023-09-12,88.94,Paypal,michael.garcia465@example.com
+CUST00744,David Wilson,33,Male,United States,2020-12-08,121.59,Cash,david.wilson744@example.com
+CUST00334,James Moore,38,Male,United Kingdom,2020-05-16,71.13,Debit Card,james.moore334@example.com
+CUST00011,Jessica Anderson,43,Female,France,2024-02-14,149.94,Credit Card,jessica.anderson11@example.com
+CUST00471,Mary Rodriguez,35,Male,United States,2015-11-21,113.28,Credit Card,mary.rodriguez471@example.com
+CUST00033,John Jones,56,Male,Canada,2015-01-11,69.94,Paypal,john.jones33@example.com
+CUST00959,James Williams,40,Female,Australia,2022-12-26,128.4,Credit Card,james.williams959@example.com
+CUST00383,Patricia Wilson,53,Male,France,2023-08-04,101.72,Debit Card,patricia.wilson383@example.com
+CUST00624,Charles Davis,37,Male,Brazil,2023-02-17,206.56,Cash,charles.davis624@example.com
+CUST00564,Richard Jones,18,Female,Canada,2015-05-19,138.16,Credit Card,richard.jones564@example.com
+CUST00916,Robert Rodriguez,37,Female,United States,2019-12-07,93.9,Debit Card,robert.rodriguez916@example.com
+CUST00938,Mary Thomas,30,Male,France,2024-08-26,193.4,Credit Card,mary.thomas938@example.com
+CUST00379,Jessica Anderson,27,Male,Brazil,2024-05-03,117.99,Credit Card,jessica.anderson379@example.com
+CUST00090,Richard Jackson,51,Female,United Kingdom,2018-02-17,148.59,Credit Card,richard.jackson90@example.com
+CUST00970,Mary Brown,36,Female,Japan,2023-05-15,64.87,Cash,mary.brown970@example.com
+CUST00347,Joseph Gonzalez,37,Female,India,2023-05-07,125.36,Debit Card,joseph.gonzalez347@example.com
+CUST00008,Robert Rodriguez,49,Female,United States,2022-07-15,155.7,Paypal,robert.rodriguez8@example.com
+CUST00627,Jessica Brown,29,Female,United States,2018-02-06,108.12,Debit Card,jessica.brown627@example.com
+CUST00321,Jessica Brown,32,Male,Brazil,2017-12-09,102.29,Paypal,jessica.brown321@example.com
+CUST00793,James Anderson,28,Female,Canada,2018-10-27,122.25,Cash,james.anderson793@example.com
+CUST00188,Elizabeth Williams,34,Male,Canada,2017-03-22,102.73,Cash,elizabeth.williams188@example.com
+CUST00305,Barbara Davis,47,Female,Canada,2018-06-13,119.66,Paypal,barbara.davis305@example.com
+CUST00032,David Wilson,39,Female,France,2022-11-22,121.59,Cash,david.wilson32@example.com
+CUST00621,Charles Gonzalez,42,Female,Germany,2016-02-02,121.59,Paypal,charles.gonzalez621@example.com
+CUST00241,Patricia Anderson,24,Female,Australia,2020-04-02,106.09,Debit Card,patricia.anderson241@example.com
+CUST00737,James Martin,34,Male,India,2019-01-08,114.53,Debit Card,james.martin737@example.com
+CUST00175,Elizabeth Taylor,40,Male,Australia,2016-09-15,104.09,Cash,elizabeth.taylor175@example.com
+CUST00246,Jessica Smith,29,Male,India,2022-09-22,72.87,Paypal,jessica.smith246@example.com
+CUST00057,David Gonzalez,40,Male,Qatar,2018-06-07,120.29,Cash,david.gonzalez57@example.com
+CUST00761,Joseph Miller,9,Female,France,2024-03-09,54.74,Debit Card,joseph.miller761@example.com
+CUST00146,Susan Miller,45,Female,Brazil,2015-08-16,96.11,Cash,susan.miller146@example.com
+CUST00091,Thomas Johnson,42,Female,United States,2022-11-20,181.16,Cash,thomas.johnson91@example.com
+CUST00393,Michael Smith,39,Female,Japan,2023-01-19,119.63,Paypal,michael.smith393@example.com
+CUST00311,Charles Taylor,25,Female,United Kingdom,2023-09-10,102.02,Cash,charles.taylor311@example.com
+CUST00360,James Brown,22,Female,Australia,2016-09-06,96.49,Credit Card,james.brown360@example.com
+CUST00094,Mary Rodriguez,44,Female,Japan,2023-01-03,167.67,Paypal,mary.rodriguez94@example.com
+CUST00702,David Anderson,57,Female,Germany,2015-01-27,106.37,Cash,david.anderson702@example.com
+CUST00783,William Gonzalez,56,Female,United States,2016-02-04,110.39,Cash,william.gonzalez783@example.com
+CUST00377,William Garcia,45,Female,United States,2018-01-04,98.19,Cash,william.garcia377@example.com
+CUST00244,John Garcia,50,Male,United States,2020-09-12,128.78,Cash,john.garcia244@example.com
+CUST00835,Joseph Garcia,38,Male,France,2019-09-21,147.13,Cash,joseph.garcia835@example.com
+CUST00088,James Jackson,39,Male,United States,2021-07-06,74.07,Paypal,james.jackson88@example.com
+CUST00215,Michael Gonzalez,44,Female,France,2021-05-12,79.47,Cash,michael.gonzalez215@example.com
+CUST00994,Elizabeth Rodriguez,32,Male,United Kingdom,2017-05-06,162.41,Debit Card,elizabeth.rodriguez994@example.com
+CUST00174,Jennifer Brown,38,Male,Brazil,2022-10-05,83.57,Cash,jennifer.brown174@example.com
+CUST00919,Sarah Martin,31,Female,United States,2018-06-07,145.87,Debit Card,sarah.martin919@example.com
+CUST00119,Michael Wilson,33,Female,United States,2016-02-22,72.97,Cash,michael.wilson119@example.com
+CUST00120,Patricia Williams,34,Male,Canada,2017-09-25,138.44,Paypal,patricia.williams120@example.com
+CUST00683,Robert Martinez,34,Female,Qatar,2015-11-11,247.22,Paypal,robert.martinez683@example.com
+CUST00001,Mary Thomas,25,Male,India,2017-02-15,125.75,Paypal,mary.thomas1@example.com
+CUST00395,James Davis,38,Male,United States,2019-04-22,84.19,Cash,james.davis395@example.com
+CUST00402,Linda Thomas,33,Female,Japan,2016-05-23,121.59,Debit Card,linda.thomas402@example.com
+CUST00405,Sarah Gonzalez,19,Female,Canada,2017-01-22,147.48,Debit Card,sarah.gonzalez405@example.com
+CUST00626,Thomas Brown,38,Female,India,2018-11-15,105.75,Cash,thomas.brown626@example.com
+CUST00633,Jennifer Davis,19,Female,Japan,2022-03-17,89.64,Paypal,jennifer.davis633@example.com
+CUST00163,Elizabeth Martinez,36,Female,United Kingdom,2022-01-16,78.79,Cash,elizabeth.martinez163@example.com
+CUST00115,Richard Miller,25,Male,India,2021-02-08,140.85,Paypal,richard.miller115@example.com
+CUST00151,James Miller,11,Female,Canada,2019-01-06,60.31,Cash,james.miller151@example.com
+CUST00596,Barbara Gonzalez,47,Female,Germany,2021-08-07,121.59,Cash,barbara.gonzalez596@example.com
+CUST00588,Robert Moore,42,Female,France,2018-04-21,74.58,Credit Card,robert.moore588@example.com
+CUST00750,William Johnson,40,Male,United Kingdom,2016-10-20,155.26,Credit Card,william.johnson750@example.com
+CUST00544,Jessica Wilson,38,Female,Japan,2017-08-11,203.38,Cash,jessica.wilson544@example.com
+CUST00478,Charles Garcia,35,Male,Brazil,2021-03-25,104.17,Cash,charles.garcia478@example.com
+CUST00533,Michael Thomas,57,Male,Australia,2015-08-04,121.59,Credit Card,michael.thomas533@example.com
+CUST01000,Jessica Jones,42,Female,Canada,2024-12-24,70.38,Cash,jessica.jones1000@example.com
+CUST00971,Joseph Anderson,18,Female,Canada,2022-07-20,104.98,Cash,joseph.anderson971@example.com
+CUST00259,Karen Wilson,49,Male,United States,2015-02-20,115.59,Cash,karen.wilson259@example.com
+CUST00858,Michael Gonzalez,35,Male,United States,2015-06-03,116.88,Paypal,michael.gonzalez858@example.com
+CUST00136,Patricia Rodriguez,39,Female,Japan,2024-11-13,66.58,Cash,patricia.rodriguez136@example.com
+CUST00645,James Jones,45,Female,Brazil,2018-08-19,79.76,Paypal,james.jones645@example.com
+CUST00593,Mary Anderson,29,Female,United Kingdom,2024-11-04,119.95,Debit Card,mary.anderson593@example.com
+CUST00807,Jennifer Davis,40,Male,United Kingdom,2024-12-16,100.3,Cash,jennifer.davis807@example.com
+CUST00502,Elizabeth Davis,38,Female,Australia,2021-01-20,134.68,Cash,elizabeth.davis502@example.com
+CUST00539,Jessica Wilson,24,Male,India,2020-03-01,137.48,Paypal,jessica.wilson539@example.com
+CUST00664,Michael Wilson,33,Female,Brazil,2023-07-24,146.95,Cash,michael.wilson664@example.com
+CUST00582,Patricia Rodriguez,37,Female,United States,2016-03-17,155.13,Cash,patricia.rodriguez582@example.com
+CUST00344,Jennifer Miller,40,Female,France,2017-11-20,67.36,Cash,jennifer.miller344@example.com
+CUST00685,Robert Gonzalez,47,Female,Qatar,2016-04-09,109.43,Cash,robert.gonzalez685@example.com
+CUST00923,Karen Rodriguez,31,Male,Brazil,2016-10-22,143.79,Credit Card,karen.rodriguez923@example.com
+CUST00294,Elizabeth Taylor,44,Male,India,2023-11-26,144.46,Credit Card,elizabeth.taylor294@example.com
+CUST00365,Jessica Davis,46,Female,United Kingdom,2020-10-09,87.32,Paypal,jessica.davis365@example.com
+CUST00815,Robert Moore,27,Female,Germany,2017-11-12,47.77,Paypal,robert.moore815@example.com
+CUST00087,John Anderson,47,Male,Germany,2019-11-20,144.69,Credit Card,john.anderson87@example.com
+CUST00166,David Taylor,64,Female,Japan,2016-04-05,220.32,Paypal,david.taylor166@example.com
+CUST00893,Susan Williams,22,Female,United Kingdom,2021-09-24,143.95,Cash,susan.williams893@example.com
+CUST00336,James Brown,22,Female,Japan,2016-08-08,160.22,Debit Card,james.brown336@example.com
+CUST00060,Michael Johnson,33,Female,Qatar,2023-05-11,87.62,Credit Card,michael.johnson60@example.com
+CUST00355,William Brown,43,Female,Canada,2018-09-17,176.69,Credit Card,william.brown355@example.com
+CUST00425,Joseph Williams,30,Male,Germany,2020-08-16,181.53,Credit Card,joseph.williams425@example.com
+CUST00293,John Hernandez,48,Female,United States,2021-01-27,93.61,Cash,john.hernandez293@example.com
+CUST00042,John Lopez,30,Male,United Kingdom,2021-09-12,156.62,Cash,john.lopez42@example.com
+CUST00330,William Smith,46,Female,United Kingdom,2024-07-17,232.23,Paypal,william.smith330@example.com
+CUST00615,Linda Anderson,38,Male,France,2018-02-05,160.87,Cash,linda.anderson615@example.com
+CUST00430,Linda Martin,41,Female,Qatar,2018-06-14,152.33,Credit Card,linda.martin430@example.com
+CUST00080,Michael Hernandez,7,Female,India,2015-04-24,157.61,Debit Card,michael.hernandez80@example.com
+CUST00029,Sarah Thomas,31,Female,Japan,2019-02-18,53.98,Cash,sarah.thomas29@example.com
+CUST00255,Sarah Garcia,43,Female,United States,2016-05-16,36.19,Cash,sarah.garcia255@example.com
+CUST00759,Robert Martinez,42,Female,France,2015-10-15,80.27,Cash,robert.martinez759@example.com
+CUST00459,Richard Jackson,38,Male,India,2017-07-22,128.9,Cash,richard.jackson459@example.com
+CUST00384,Richard Davis,38,Male,France,2015-11-24,117.26,Credit Card,richard.davis384@example.com
+CUST00314,Elizabeth Martin,53,Male,France,2023-03-02,103.54,Cash,elizabeth.martin314@example.com
+CUST00085,Linda Jones,38,Female,Germany,2023-01-02,65.28,Paypal,linda.jones85@example.com
+CUST00575,Karen Taylor,46,Male,Qatar,2016-07-23,89.93,Credit Card,karen.taylor575@example.com
+CUST00137,Jennifer Garcia,26,Female,Australia,2023-05-20,103.64,Credit Card,jennifer.garcia137@example.com
+CUST00112,Thomas Martin,42,Male,Germany,2023-02-23,67.69,Cash,thomas.martin112@example.com
+CUST00195,Mary Martin,29,Female,Brazil,2015-04-14,115.98,Debit Card,mary.martin195@example.com
+CUST00179,Thomas Jackson,38,Male,United States,2019-06-14,133.92,Debit Card,thomas.jackson179@example.com
+CUST00897,Linda Davis,50,Female,India,2020-10-12,178.78,Credit Card,linda.davis897@example.com
+CUST00497,Charles Wilson,51,Female,United Kingdom,2020-06-04,121.59,Debit Card,charles.wilson497@example.com
+CUST00130,William Jones,44,Male,Australia,2022-09-23,178.66,Cash,william.jones130@example.com
+CUST00338,Patricia Hernandez,30,Female,Japan,2016-09-16,81.17,Credit Card,patricia.hernandez338@example.com
+CUST00609,Susan Thomas,42,Male,France,2021-08-18,159.05,Cash,susan.thomas609@example.com
+CUST00125,Jennifer Martinez,36,Female,India,2023-04-24,117.29,Credit Card,jennifer.martinez125@example.com
+CUST00972,Sarah Anderson,28,Female,Australia,2019-03-26,213.76,Debit Card,sarah.anderson972@example.com
+CUST00227,Susan Davis,24,Female,India,2019-12-04,64.74,Paypal,susan.davis227@example.com
+CUST00269,David Moore,4,Male,Germany,2017-10-24,120.6,Debit Card,david.moore269@example.com
+CUST00969,James Jackson,48,Male,India,2017-10-04,121.59,Cash,james.jackson969@example.com
+CUST00104,Michael Thomas,37,Male,Japan,2021-12-10,70.8,Cash,michael.thomas104@example.com
+CUST00594,Michael Garcia,50,Male,France,2023-12-02,192.28,Cash,michael.garcia594@example.com
+CUST00864,Joseph Johnson,34,Female,Brazil,2023-08-05,185.0,Paypal,joseph.johnson864@example.com
+CUST00228,Patricia Martinez,28,Male,Australia,2015-05-13,131.04,Cash,patricia.martinez228@example.com
+CUST00895,Joseph Anderson,47,Male,Canada,2018-03-08,149.41,Debit Card,joseph.anderson895@example.com
+CUST00302,Jennifer Moore,49,Male,Qatar,2024-10-01,82.5,Credit Card,jennifer.moore302@example.com
+CUST00127,Patricia Smith,71,Female,Canada,2024-08-02,139.47,Credit Card,patricia.smith127@example.com
+CUST00406,William Hernandez,51,Male,Japan,2023-03-08,178.95,Credit Card,william.hernandez406@example.com
+CUST00901,Richard Johnson,48,Male,United States,2017-12-05,178.63,Debit Card,richard.johnson901@example.com
+CUST00037,Linda Brown,33,Female,India,2024-11-13,139.76,Debit Card,linda.brown37@example.com
+CUST00304,Michael Taylor,36,Female,Canada,2016-06-16,111.16,Cash,michael.taylor304@example.com
+CUST00268,Mary Hernandez,32,Female,Australia,2015-09-23,106.22,Credit Card,mary.hernandez268@example.com
+CUST00534,Elizabeth Anderson,32,Male,Germany,2018-05-19,177.96,Debit Card,elizabeth.anderson534@example.com
+CUST00546,Karen Brown,24,Female,Qatar,2020-06-05,90.79,Debit Card,karen.brown546@example.com
+CUST00213,Barbara Thomas,49,Female,Australia,2021-09-24,174.98,Cash,barbara.thomas213@example.com
+CUST00469,Michael Garcia,21,Female,Australia,2020-06-19,148.56,Debit Card,michael.garcia469@example.com
+CUST00199,John Thomas,40,Male,Germany,2022-02-18,130.66,Cash,john.thomas199@example.com
+CUST00528,Mary Wilson,41,Female,Canada,2016-01-01,121.59,Paypal,mary.wilson528@example.com
+CUST00803,James Anderson,36,Female,Australia,2018-07-07,73.49,Debit Card,james.anderson803@example.com
+CUST00242,Richard Miller,44,Male,Canada,2015-12-03,108.23,Credit Card,richard.miller242@example.com
+CUST00387,Richard Smith,29,Male,United States,2021-06-18,160.95,Cash,richard.smith387@example.com
+CUST00870,Richard Martinez,31,Female,India,2021-07-15,102.35,Paypal,richard.martinez870@example.com
+CUST00207,Mary Martin,26,Male,Qatar,2017-11-23,123.24,Paypal,mary.martin207@example.com
+CUST00296,Jessica Gonzalez,35,Female,Brazil,2017-09-25,147.65,Credit Card,jessica.gonzalez296@example.com
+CUST00780,Michael Martinez,24,Female,India,2015-06-18,84.66,Paypal,michael.martinez780@example.com
+CUST00074,James Moore,22,Female,United States,2021-03-24,132.1,Credit Card,james.moore74@example.com
+CUST00755,John Anderson,37,Male,United States,2024-11-05,104.63,Paypal,john.anderson755@example.com
+CUST00105,Michael Jones,7,Female,Qatar,2021-05-15,121.74,Credit Card,michael.jones105@example.com
+CUST00976,Linda Moore,43,Male,Qatar,2024-08-23,67.84,Cash,linda.moore976@example.com
+CUST00017,William Martinez,41,Male,Germany,2021-06-12,75.47,Cash,william.martinez17@example.com
+CUST00440,Elizabeth Taylor,44,Male,Canada,2024-07-09,116.8,Paypal,elizabeth.taylor440@example.com
+CUST00089,Elizabeth Smith,38,Female,United Kingdom,2024-11-08,106.53,Cash,elizabeth.smith89@example.com
+CUST00451,Michael Miller,38,Female,Canada,2024-10-05,138.08,Credit Card,michael.miller451@example.com
+CUST00103,Elizabeth Martinez,41,Male,United States,2024-09-14,119.45,Credit Card,elizabeth.martinez103@example.com
+CUST00239,Michael Anderson,28,Male,Brazil,2015-07-08,124.6,Cash,michael.anderson239@example.com
+CUST00247,Jessica Garcia,42,Female,Germany,2019-04-27,108.34,Credit Card,jessica.garcia247@example.com
+CUST00723,Elizabeth Lopez,39,Male,Germany,2016-12-24,85.15,Cash,elizabeth.lopez723@example.com
+CUST00158,Sarah Gonzalez,28,Male,United States,2018-12-13,134.71,Paypal,sarah.gonzalez158@example.com
+CUST00480,John Davis,51,Female,France,2015-03-03,152.97,Credit Card,john.davis480@example.com
+CUST00646,Linda Gonzalez,39,Female,France,2016-12-16,195.16,Cash,linda.gonzalez646@example.com
+CUST00974,John Hernandez,32,Male,India,2015-02-13,39.36,Debit Card,john.hernandez974@example.com
+CUST00832,William Lopez,39,Male,Canada,2021-07-11,121.59,Cash,william.lopez832@example.com
+CUST00019,Michael Williams,38,Male,India,2022-09-26,164.22,Cash,michael.williams19@example.com
+CUST00715,Sarah Hernandez,58,Female,Japan,2024-04-08,99.69,Cash,sarah.hernandez715@example.com
+CUST00122,David Smith,31,Female,India,2018-06-05,150.48,Cash,david.smith122@example.com
+CUST00846,William Williams,20,Female,France,2022-08-22,108.6,Credit Card,william.williams846@example.com
+CUST00714,Susan Garcia,40,Female,Brazil,2016-07-22,72.36,Debit Card,susan.garcia714@example.com
+CUST00275,Thomas Jones,39,Male,Brazil,2018-07-26,75.09,Paypal,thomas.jones275@example.com
+CUST00908,Patricia Jones,48,Male,Brazil,2024-11-04,141.22,Debit Card,patricia.jones908@example.com
+CUST00312,James Anderson,46,Male,France,2017-08-13,136.45,Credit Card,james.anderson312@example.com
+CUST00768,William Moore,47,Male,France,2024-12-19,113.54,Debit Card,william.moore768@example.com
+CUST00913,James Rodriguez,20,Female,Japan,2022-03-19,43.83,Debit Card,james.rodriguez913@example.com
+CUST00547,Thomas Martin,35,Female,Germany,2019-05-16,86.56,Paypal,thomas.martin547@example.com
+CUST00182,John Brown,29,Male,Germany,2015-11-01,87.21,Credit Card,john.brown182@example.com
+CUST00185,John Wilson,50,Male,Brazil,2015-03-06,144.76,Paypal,john.wilson185@example.com
+CUST00407,Elizabeth Lopez,41,Male,Japan,2016-03-09,107.31,Debit Card,elizabeth.lopez407@example.com
+CUST00693,Linda Rodriguez,43,Male,Australia,2016-07-15,54.82,Credit Card,linda.rodriguez693@example.com
+CUST00521,Mary Taylor,38,Female,India,2022-12-23,137.52,Cash,mary.taylor521@example.com
+CUST00381,Charles Hernandez,57,Male,United Kingdom,2020-06-19,168.67,Cash,charles.hernandez381@example.com
+CUST00635,John Moore,37,Female,Australia,2020-04-26,121.59,Credit Card,john.moore635@example.com
+CUST00370,Susan Moore,27,Male,Canada,2016-02-24,150.99,Paypal,susan.moore370@example.com
+CUST00872,Barbara Martinez,34,Female,Brazil,2022-06-10,22.25,Credit Card,barbara.martinez872@example.com
+CUST00843,Susan Martin,43,Female,Japan,2024-10-16,76.54,Cash,susan.martin843@example.com
+CUST00899,David Johnson,45,Female,India,2021-05-24,76.36,Credit Card,david.johnson899@example.com
+CUST00079,William Moore,37,Female,Australia,2017-05-25,47.3,Credit Card,william.moore79@example.com
+CUST00574,John Brown,47,Female,Canada,2016-12-17,173.82,Paypal,john.brown574@example.com
+CUST00638,Charles Hernandez,33,Female,Germany,2020-07-12,159.9,Cash,charles.hernandez638@example.com
+CUST00608,Sarah Miller,28,Female,France,2023-11-04,31.02,Credit Card,sarah.miller608@example.com
+CUST00955,Susan Wilson,53,Male,India,2021-09-04,61.99,Cash,susan.wilson955@example.com
+CUST00841,Barbara Jackson,49,Female,Canada,2022-03-09,137.14,Paypal,barbara.jackson841@example.com
+CUST00935,Charles Moore,57,Male,Australia,2020-09-21,96.51,Credit Card,charles.moore935@example.com
+CUST00417,Sarah Rodriguez,37,Male,Canada,2024-11-13,145.09,Credit Card,sarah.rodriguez417@example.com
+CUST00752,William Brown,47,Male,France,2023-05-08,247.22,Credit Card,william.brown752@example.com
+CUST00562,Sarah Anderson,38,Female,Brazil,2018-07-01,186.14,Paypal,sarah.anderson562@example.com
+CUST00068,Charles Gonzalez,28,Female,Australia,2016-04-01,144.68,Cash,charles.gonzalez68@example.com
+CUST00537,Mary Hernandez,37,Male,France,2022-04-27,178.37,Cash,mary.hernandez537@example.com
+CUST00078,Charles Jones,35,Female,United States,2020-09-01,127.98,Debit Card,charles.jones78@example.com
+CUST00106,Robert Moore,29,Female,Canada,2023-05-23,124.61,Credit Card,robert.moore106@example.com
+CUST00790,Richard Rodriguez,56,Female,Japan,2020-02-10,54.54,Cash,richard.rodriguez790@example.com
+CUST00639,Jessica Garcia,31,Male,Canada,2016-06-03,205.9,Paypal,jessica.garcia639@example.com
+CUST00560,Robert Rodriguez,38,Female,Brazil,2021-06-06,60.22,Debit Card,robert.rodriguez560@example.com
+CUST00770,Linda Taylor,30,Female,Australia,2022-11-04,195.77,Debit Card,linda.taylor770@example.com
+CUST00691,David Anderson,38,Female,United Kingdom,2016-04-01,37.22,Paypal,david.anderson691@example.com
+CUST00879,Elizabeth Lopez,39,Male,India,2020-01-15,138.63,Paypal,elizabeth.lopez879@example.com
+CUST00987,Michael Brown,33,Male,France,2019-05-03,140.62,Debit Card,michael.brown987@example.com
+CUST00881,Michael Martinez,31,Female,Qatar,2017-08-09,118.99,Paypal,michael.martinez881@example.com
+CUST00736,James Jackson,44,Male,Germany,2018-09-21,78.6,Debit Card,james.jackson736@example.com
+CUST00936,Karen Garcia,51,Male,Germany,2016-02-10,144.99,Debit Card,karen.garcia936@example.com
+CUST00491,Barbara Brown,33,Male,United States,2020-03-07,122.3,Cash,barbara.brown491@example.com
+CUST00606,Richard Moore,30,Male,France,2016-12-17,66.53,Cash,richard.moore606@example.com
+CUST00070,Jessica Wilson,9,Female,India,2022-06-24,209.88,Credit Card,jessica.wilson70@example.com
+CUST00549,Jennifer Martinez,44,Female,Canada,2019-11-05,139.19,Debit Card,jennifer.martinez549@example.com
+CUST00161,Patricia Hernandez,24,Male,India,2023-02-20,121.59,Cash,patricia.hernandez161@example.com
+CUST00012,Michael Wilson,17,Female,Australia,2016-05-26,79.25,Cash,michael.wilson12@example.com
+CUST00145,Patricia Taylor,23,Female,Canada,2024-12-11,84.34,Debit Card,patricia.taylor145@example.com
+CUST00518,John Johnson,0,Female,Australia,2017-02-21,121.59,Cash,john.johnson518@example.com
+CUST00428,Richard Martinez,17,Male,Canada,2015-07-12,33.03,Debit Card,richard.martinez428@example.com
+CUST00640,William Garcia,34,Male,Japan,2015-11-17,135.86,Cash,william.garcia640@example.com
+CUST00177,Elizabeth Miller,12,Female,United Kingdom,2018-01-02,160.3,Cash,elizabeth.miller177@example.com
+CUST00441,Susan Martinez,15,Male,Australia,2024-08-12,200.16,Credit Card,susan.martinez441@example.com
+CUST00522,Mary Hernandez,43,Male,Brazil,2023-03-24,72.73,Debit Card,mary.hernandez522@example.com
+CUST00882,Robert Davis,51,Female,United States,2015-09-26,121.59,Paypal,robert.davis882@example.com
+CUST00954,David Gonzalez,17,Male,India,2024-12-23,69.44,Cash,david.gonzalez954@example.com
+CUST00689,Barbara Jones,38,Male,Brazil,2019-04-05,196.83,Debit Card,barbara.jones689@example.com
+CUST00232,Michael Davis,31,Male,France,2017-04-08,128.93,Cash,michael.davis232@example.com
+CUST00211,Charles Martin,37,Male,Australia,2021-04-12,33.56,Cash,charles.martin211@example.com
+CUST00641,Richard Miller,38,Female,Germany,2016-01-24,86.59,Credit Card,richard.miller641@example.com
+CUST00144,Susan Hernandez,47,Male,Germany,2015-04-13,145.18,Cash,susan.hernandez144@example.com
+CUST00754,John Thomas,39,Female,Qatar,2018-10-02,127.37,Paypal,john.thomas754@example.com
+CUST00520,James Gonzalez,49,Female,United States,2022-05-12,133.41,Cash,james.gonzalez520@example.com
+CUST00299,Jennifer Brown,55,Female,Japan,2018-11-25,195.71,Cash,jennifer.brown299@example.com
+CUST00767,Patricia Smith,42,Female,Japan,2019-06-23,90.88,Credit Card,patricia.smith767@example.com
+CUST00429,Mary Miller,45,Male,Brazil,2020-03-10,126.15,Paypal,mary.miller429@example.com
+CUST00613,Jennifer Jones,40,Male,United Kingdom,2024-03-16,52.18,Debit Card,jennifer.jones613@example.com
+CUST00940,Charles Thomas,52,Male,Germany,2018-02-14,147.64,Credit Card,charles.thomas940@example.com
+CUST00949,Jessica Williams,17,Female,United States,2022-11-14,67.97,Cash,jessica.williams949@example.com
+CUST00009,Michael Rodriguez,48,Female,Brazil,2015-03-23,142.37,Debit Card,michael.rodriguez9@example.com
+CUST00157,Michael Brown,48,Male,Canada,2023-05-27,149.6,Credit Card,michael.brown157@example.com
+CUST00540,Mary Jones,25,Male,Australia,2023-12-03,134.1,Credit Card,mary.jones540@example.com
+CUST00507,Karen Gonzalez,44,Female,Canada,2018-09-05,73.77,Paypal,karen.gonzalez507@example.com
+CUST00437,Barbara Martinez,48,Female,India,2024-01-21,111.99,Cash,barbara.martinez437@example.com
+CUST00267,Michael Williams,43,Male,Brazil,2023-05-16,48.88,Paypal,michael.williams267@example.com
+CUST00462,Thomas Brown,32,Male,Germany,2023-06-27,92.19,Cash,thomas.brown462@example.com
+CUST00577,Linda Garcia,37,Female,Australia,2017-06-26,38.01,Debit Card,linda.garcia577@example.com
+CUST00339,Thomas Garcia,21,Male,Australia,2016-07-08,171.42,Debit Card,thomas.garcia339@example.com
+CUST00256,Joseph Rodriguez,36,Female,Japan,2018-11-15,78.1,Credit Card,joseph.rodriguez256@example.com
+CUST00814,Joseph Wilson,42,Male,United Kingdom,2020-02-20,247.22,Debit Card,joseph.wilson814@example.com
+CUST00861,James Williams,56,Male,Germany,2015-05-17,34.91,Credit Card,james.williams861@example.com
+CUST00666,Thomas Moore,35,Female,United States,2023-07-18,155.88,Cash,thomas.moore666@example.com
+CUST00561,Joseph Davis,37,Male,India,2022-07-04,127.87,Paypal,joseph.davis561@example.com
+CUST00209,David Wilson,26,Female,France,2019-12-26,133.57,Debit Card,david.wilson209@example.com
+CUST00288,Charles Hernandez,28,Female,France,2023-05-21,99.25,Cash,charles.hernandez288@example.com
+CUST00002,Robert Taylor,48,Female,Qatar,2021-05-23,81.33,Debit Card,robert.taylor2@example.com
+CUST00342,Michael Jackson,41,Female,Brazil,2021-02-06,173.02,Cash,michael.jackson342@example.com
+CUST00270,Patricia Lopez,41,Male,United States,2023-12-19,138.22,Credit Card,patricia.lopez270@example.com
+CUST00998,Susan Rodriguez,23,Male,Canada,2023-09-03,151.73,Cash,susan.rodriguez998@example.com
+CUST00831,Joseph Smith,35,Male,Qatar,2020-05-05,139.57,Paypal,joseph.smith831@example.com
+CUST00096,Karen Williams,40,Female,United States,2022-06-12,134.02,Credit Card,karen.williams96@example.com
+CUST00982,Linda Gonzalez,54,Female,United States,2021-12-24,152.76,Debit Card,linda.gonzalez982@example.com
+CUST00043,Joseph Moore,40,Male,Australia,2020-09-04,137.25,Paypal,joseph.moore43@example.com
+CUST00813,Elizabeth Brown,32,Male,Germany,2016-07-12,153.31,Debit Card,elizabeth.brown813@example.com
+CUST00844,James Rodriguez,58,Female,United States,2017-05-24,170.91,Cash,james.rodriguez844@example.com
+CUST00629,Robert Brown,45,Female,Australia,2019-11-22,152.92,Debit Card,robert.brown629@example.com
+CUST00046,James Johnson,18,Female,Japan,2019-12-04,143.59,Debit Card,james.johnson46@example.com
+CUST00162,Linda Jackson,37,Male,France,2018-07-27,186.31,Cash,linda.jackson162@example.com
+CUST00630,Jessica Martinez,51,Male,Qatar,2015-02-26,154.97,Paypal,jessica.martinez630@example.com
+CUST00289,Charles Smith,27,Female,France,2021-08-18,121.59,Paypal,charles.smith289@example.com
+CUST00966,Jennifer Lopez,21,Female,Brazil,2018-08-04,120.38,Paypal,jennifer.lopez966@example.com
+CUST00576,Karen Gonzalez,46,Female,United Kingdom,2016-03-25,205.02,Paypal,karen.gonzalez576@example.com
+CUST00316,Charles Hernandez,35,Female,Brazil,2024-04-05,117.72,Cash,charles.hernandez316@example.com
+CUST00902,David Lopez,37,Male,Australia,2023-04-13,95.63,Credit Card,david.lopez902@example.com
+CUST00231,Jennifer Rodriguez,58,Male,Australia,2021-03-10,190.88,Credit Card,jennifer.rodriguez231@example.com
+CUST00810,Susan Jackson,33,Male,Germany,2021-04-07,197.54,Credit Card,susan.jackson810@example.com
+CUST00699,Thomas Anderson,38,Male,Australia,2024-04-23,46.17,Paypal,thomas.anderson699@example.com
+CUST00837,Thomas Garcia,35,Female,Japan,2024-12-06,144.19,Debit Card,thomas.garcia837@example.com
+CUST00712,Joseph Martinez,55,Male,Brazil,2019-05-01,209.93,Paypal,joseph.martinez712@example.com
+CUST00077,William Taylor,62,Male,Germany,2020-04-02,121.59,Debit Card,william.taylor77@example.com
+CUST00634,Sarah Johnson,43,Male,Australia,2023-09-11,172.28,Credit Card,sarah.johnson634@example.com
+CUST00988,William Garcia,35,Female,Australia,2018-04-06,121.58,Paypal,william.garcia988@example.com
+CUST00248,Jennifer Moore,47,Female,Qatar,2020-12-01,118.74,Credit Card,jennifer.moore248@example.com
+CUST00820,Patricia Hernandez,39,Female,United Kingdom,2018-11-06,143.5,Cash,patricia.hernandez820@example.com
+CUST00990,Barbara Johnson,38,Female,Brazil,2017-06-23,120.15,Debit Card,barbara.johnson990@example.com
+CUST00477,Elizabeth Jackson,47,Female,United Kingdom,2019-03-03,144.77,Cash,elizabeth.jackson477@example.com
+CUST00671,Jennifer Williams,66,Female,United States,2020-01-19,98.08,Credit Card,jennifer.williams671@example.com
+CUST00086,William Rodriguez,33,Female,Canada,2017-04-17,52.65,Debit Card,william.rodriguez86@example.com
+CUST00470,Linda Rodriguez,32,Female,Brazil,2019-07-22,218.95,Cash,linda.rodriguez470@example.com
+CUST00226,Joseph Smith,46,Male,Qatar,2019-08-26,59.25,Cash,joseph.smith226@example.com
+CUST00775,James Martin,32,Male,Germany,2019-01-21,247.22,Cash,james.martin775@example.com
+CUST00332,Linda Wilson,51,Female,Australia,2024-05-16,94.45,Cash,linda.wilson332@example.com
+CUST00234,David Gonzalez,31,Female,Australia,2020-07-04,170.52,Debit Card,david.gonzalez234@example.com
+CUST00589,Thomas Gonzalez,50,Female,United Kingdom,2016-01-08,107.73,Paypal,thomas.gonzalez589@example.com
+CUST00476,Barbara Miller,48,Female,India,2023-03-20,83.18,Credit Card,barbara.miller476@example.com
+CUST00903,Sarah Smith,31,Male,Australia,2018-07-06,55.0,Credit Card,sarah.smith903@example.com
+CUST00883,William Moore,26,Male,Qatar,2017-12-04,61.45,Cash,william.moore883@example.com
+CUST00600,Robert Martinez,28,Female,Brazil,2023-11-12,122.1,Cash,robert.martinez600@example.com
+CUST00422,Karen Wilson,29,Female,Australia,2017-09-23,80.25,Credit Card,karen.wilson422@example.com
+CUST00183,Thomas Martin,33,Male,Canada,2021-12-22,91.43,Credit Card,thomas.martin183@example.com
+CUST00618,Robert Gonzalez,56,Male,India,2018-06-10,121.59,Debit Card,robert.gonzalez618@example.com
+CUST00439,Charles Davis,37,Male,Canada,2018-04-10,153.77,Credit Card,charles.davis439@example.com
+CUST00890,Jennifer Garcia,1,Female,Japan,2023-05-08,95.27,Credit Card,jennifer.garcia890@example.com
+CUST00006,Joseph Johnson,38,Male,Brazil,2018-11-08,130.06,Paypal,joseph.johnson6@example.com
+CUST00530,Susan Rodriguez,52,Male,United Kingdom,2019-02-08,136.13,Credit Card,susan.rodriguez530@example.com
+CUST00235,Mary Martinez,52,Male,Germany,2016-08-12,119.54,Cash,mary.martinez235@example.com
+CUST00487,Elizabeth Williams,25,Male,Brazil,2015-07-11,121.59,Cash,elizabeth.williams487@example.com
+CUST00917,Jessica Smith,56,Female,Japan,2021-03-19,57.78,Cash,jessica.smith917@example.com
+CUST00498,William Hernandez,22,Female,United Kingdom,2022-03-20,154.48,Cash,william.hernandez498@example.com
+CUST00911,William Jones,63,Female,Qatar,2018-12-24,60.96,Credit Card,william.jones911@example.com
+CUST00107,John Gonzalez,62,Female,Qatar,2016-08-05,86.17,Cash,john.gonzalez107@example.com
+CUST00444,Joseph Miller,39,Female,United Kingdom,2023-10-20,171.69,Paypal,joseph.miller444@example.com
+CUST00489,Richard Brown,44,Male,Qatar,2020-07-22,46.23,Debit Card,richard.brown489@example.com
+CUST00647,David Davis,38,Male,Germany,2023-01-21,91.52,Credit Card,david.davis647@example.com
+CUST00013,Jessica Martin,33,Male,Germany,2022-03-04,104.74,Cash,jessica.martin13@example.com
+CUST00739,Mary Miller,38,Female,Qatar,2016-01-25,83.8,Cash,mary.miller739@example.com
+CUST00727,Jessica Martinez,22,Male,Brazil,2016-06-04,98.19,Credit Card,jessica.martinez727@example.com
+CUST00191,Sarah Moore,23,Female,Qatar,2021-02-04,168.8,Cash,sarah.moore191@example.com
+CUST00960,David Brown,31,Male,Brazil,2020-08-19,86.67,Paypal,david.brown960@example.com
+CUST00833,James Williams,40,Female,Canada,2021-07-11,149.84,Credit Card,james.williams833@example.com
+CUST00283,Mary Thomas,51,Male,Japan,2024-05-14,51.5,Credit Card,mary.thomas283@example.com
+CUST00030,Jennifer Jones,24,Female,United Kingdom,2020-04-05,75.59,Cash,jennifer.jones30@example.com
+CUST00170,Joseph Gonzalez,41,Female,Germany,2019-08-11,105.35,Cash,joseph.gonzalez170@example.com
+CUST00181,Michael Williams,36,Female,India,2024-06-10,144.8,Paypal,michael.williams181@example.com
+CUST00101,Elizabeth Johnson,38,Male,Qatar,2016-04-05,32.84,Paypal,elizabeth.johnson101@example.com
+CUST00198,Linda Anderson,36,Male,Qatar,2022-11-09,138.46,Cash,linda.anderson198@example.com
+CUST00496,Mary Martinez,15,Female,France,2018-09-14,188.0,Cash,mary.martinez496@example.com
+CUST00722,Joseph Wilson,35,Male,Qatar,2018-06-22,86.31,Cash,joseph.wilson722@example.com
+CUST00648,Sarah Garcia,43,Female,France,2023-02-21,232.02,Credit Card,sarah.garcia648@example.com
+CUST00993,Patricia Anderson,52,Female,India,2021-10-24,162.65,Cash,patricia.anderson993@example.com
+CUST00947,William Rodriguez,44,Female,Australia,2021-10-12,114.52,Cash,william.rodriguez947@example.com
+CUST00711,Charles Martin,67,Female,Qatar,2017-02-24,121.59,Credit Card,charles.martin711@example.com
+CUST00374,Barbara Taylor,51,Male,Australia,2024-02-18,141.59,Credit Card,barbara.taylor374@example.com
+CUST00679,Richard Thomas,40,Female,France,2019-12-05,85.32,Debit Card,richard.thomas679@example.com
+CUST00898,David Brown,22,Male,India,2019-06-24,192.82,Cash,david.brown898@example.com
+CUST00649,Susan Moore,28,Male,United States,2022-08-15,104.54,Debit Card,susan.moore649@example.com
+CUST00798,Charles Martinez,60,Female,India,2024-11-22,74.68,Debit Card,charles.martinez798@example.com
+CUST00848,Barbara Miller,50,Male,Australia,2019-11-05,81.42,Paypal,barbara.miller848@example.com
+CUST00461,Susan Jones,38,Female,Japan,2016-05-09,121.59,Debit Card,susan.jones461@example.com
+CUST00414,John Williams,50,Male,Germany,2019-09-08,166.52,Credit Card,john.williams414@example.com
+CUST00040,Patricia Taylor,56,Female,Qatar,2024-12-03,65.25,Paypal,patricia.taylor40@example.com
+CUST00435,Michael Davis,40,Male,India,2023-11-18,123.19,Paypal,michael.davis435@example.com
+CUST00556,Barbara Thomas,42,Female,United Kingdom,2016-09-23,0.74,Debit Card,barbara.thomas556@example.com
+CUST00567,Robert Jackson,18,Male,United Kingdom,2018-08-18,105.03,Credit Card,robert.jackson567@example.com
+CUST00763,Mary Gonzalez,37,Female,Qatar,2019-11-15,71.15,Credit Card,mary.gonzalez763@example.com
+CUST00475,Karen Rodriguez,36,Female,Japan,2017-09-09,98.36,Credit Card,karen.rodriguez475@example.com
+CUST00457,Patricia Jackson,34,Male,France,2021-04-22,155.55,Cash,patricia.jackson457@example.com
+CUST00812,Richard Jones,55,Female,Brazil,2020-11-22,48.77,Cash,richard.jones812@example.com
+CUST00261,Patricia Moore,41,Male,United Kingdom,2022-04-06,118.24,Credit Card,patricia.moore261@example.com
+CUST00817,Jessica Miller,39,Female,Canada,2022-10-19,247.22,Paypal,jessica.miller817@example.com
+CUST00036,John Garcia,33,Male,Germany,2021-03-10,158.87,Debit Card,john.garcia36@example.com
+CUST00828,Robert Hernandez,24,Female,United States,2015-05-18,135.82,Debit Card,robert.hernandez828@example.com
+CUST00310,John Taylor,53,Male,Australia,2020-07-27,77.23,Credit Card,john.taylor310@example.com
+CUST00277,Patricia Thomas,57,Male,Japan,2022-02-02,121.92,Paypal,patricia.thomas277@example.com
+CUST00637,John Gonzalez,26,Male,France,2020-06-27,161.61,Debit Card,john.gonzalez637@example.com
+CUST00655,Jennifer Thomas,38,Male,India,2017-02-21,44.11,Paypal,jennifer.thomas655@example.com
+CUST00623,Mary Gonzalez,55,Female,United States,2015-06-15,247.22,Debit Card,mary.gonzalez623@example.com
+CUST00836,Robert Johnson,27,Female,Japan,2024-12-14,76.39,Credit Card,robert.johnson836@example.com
+CUST00845,Joseph Smith,43,Male,Australia,2020-10-06,203.81,Credit Card,joseph.smith845@example.com
+CUST00394,Patricia Martin,34,Male,Japan,2015-01-03,204.53,Debit Card,patricia.martin394@example.com
+CUST00956,Sarah Brown,38,Male,United States,2023-08-27,160.77,Debit Card,sarah.brown956@example.com
+CUST00108,Mary Rodriguez,30,Male,Brazil,2020-11-21,143.82,Debit Card,mary.rodriguez108@example.com
+CUST00963,James Taylor,42,Male,Australia,2022-09-23,152.6,Cash,james.taylor963@example.com
+CUST00525,Michael Johnson,26,Female,France,2017-04-07,86.31,Paypal,michael.johnson525@example.com
+CUST00785,Thomas Taylor,25,Female,Canada,2021-07-18,143.63,Cash,thomas.taylor785@example.com
+CUST00048,Sarah Moore,29,Female,Brazil,2022-06-10,143.45,Cash,sarah.moore48@example.com
+CUST00204,William Brown,38,Female,Australia,2024-09-18,94.04,Credit Card,william.brown204@example.com
+CUST00943,Jessica Taylor,46,Male,India,2018-02-27,153.05,Cash,jessica.taylor943@example.com
+CUST00632,Linda Gonzalez,35,Male,Brazil,2018-07-09,124.45,Paypal,linda.gonzalez632@example.com
+CUST00022,John Moore,41,Male,Qatar,2018-08-12,139.29,Debit Card,john.moore22@example.com
+CUST00403,James Martinez,46,Male,Australia,2021-03-20,130.63,Debit Card,james.martinez403@example.com
+CUST00084,Jessica Miller,35,Female,Australia,2022-01-25,79.02,Debit Card,jessica.miller84@example.com
+CUST00131,John Anderson,34,Male,Brazil,2017-02-16,171.02,Debit Card,john.anderson131@example.com
+CUST00416,John Rodriguez,46,Male,Japan,2018-07-06,155.32,Debit Card,john.rodriguez416@example.com
+CUST00842,William Jones,38,Male,United States,2016-02-08,69.53,Debit Card,william.jones842@example.com
+CUST00742,Michael Garcia,38,Male,Canada,2017-06-27,77.6,Cash,michael.garcia742@example.com
+CUST00698,Patricia Thomas,57,Male,Canada,2021-09-18,158.88,Cash,patricia.thomas698@example.com
+CUST00287,Richard Moore,30,Female,Canada,2015-09-07,113.04,Cash,richard.moore287@example.com
+CUST00124,James Anderson,35,Male,Germany,2021-06-19,126.74,Debit Card,james.anderson124@example.com
+CUST00034,Robert Johnson,43,Male,Brazil,2023-11-07,98.78,Paypal,robert.johnson34@example.com
+CUST00995,James Williams,33,Male,Australia,2022-06-03,121.59,Paypal,james.williams995@example.com
+CUST00517,James Rodriguez,21,Female,France,2017-09-27,74.09,Credit Card,james.rodriguez517@example.com
+CUST00924,James Rodriguez,20,Male,Canada,2017-05-08,55.75,Debit Card,james.rodriguez924@example.com
+CUST00020,John Jones,29,Male,Australia,2023-06-22,161.92,Debit Card,john.jones20@example.com
+CUST00944,Patricia Miller,46,Male,Japan,2015-11-21,153.99,Credit Card,patricia.miller944@example.com
+CUST00220,Elizabeth Lopez,59,Male,Qatar,2017-02-09,99.44,Debit Card,elizabeth.lopez220@example.com
+CUST00892,Elizabeth Smith,29,Male,Canada,2017-09-23,166.62,Cash,elizabeth.smith892@example.com
+CUST00482,Karen Lopez,37,Female,United States,2018-10-20,133.74,Cash,karen.lopez482@example.com
+CUST00357,Susan Brown,27,Female,India,2022-04-12,98.65,Paypal,susan.brown357@example.com
+CUST00662,John Miller,31,Male,Germany,2020-09-09,41.97,Debit Card,john.miller662@example.com
+CUST00225,Susan Anderson,24,Male,Brazil,2020-06-20,66.34,Credit Card,susan.anderson225@example.com
+CUST00760,Sarah Davis,47,Female,Qatar,2015-03-25,161.37,Cash,sarah.davis760@example.com
+CUST00093,Barbara Martin,48,Female,Brazil,2015-12-11,71.29,Cash,barbara.martin93@example.com
+CUST00152,Karen Davis,47,Female,United Kingdom,2016-06-06,158.05,Cash,karen.davis152@example.com
+CUST00318,Richard Jones,17,Male,Canada,2021-09-15,112.37,Cash,richard.jones318@example.com
+CUST00449,Charles Brown,29,Male,United Kingdom,2018-03-21,120.47,Credit Card,charles.brown449@example.com
+CUST00804,Karen Davis,29,Male,Canada,2023-05-22,121.77,Credit Card,karen.davis804@example.com
+CUST00746,Linda Williams,25,Male,Japan,2021-09-16,121.59,Paypal,linda.williams746@example.com
+CUST00280,Sarah Lopez,45,Female,Qatar,2016-08-08,81.03,Credit Card,sarah.lopez280@example.com
+CUST00584,Charles Hernandez,41,Female,India,2017-04-13,119.97,Cash,charles.hernandez584@example.com
+CUST00765,David Thomas,45,Male,India,2024-02-01,88.27,Paypal,david.thomas765@example.com
+CUST00605,Jennifer Martin,39,Male,United Kingdom,2015-01-12,183.57,Cash,jennifer.martin605@example.com
+CUST00350,William Williams,37,Male,United States,2021-03-04,156.88,Paypal,william.williams350@example.com
+CUST00928,Barbara Brown,25,Female,India,2021-03-16,126.58,Paypal,barbara.brown928@example.com
+CUST00375,Mary Brown,38,Male,United Kingdom,2016-06-13,60.74,Paypal,mary.brown375@example.com
+CUST00401,Sarah Thomas,22,Male,France,2023-10-15,206.63,Paypal,sarah.thomas401@example.com
+CUST00705,Elizabeth Miller,38,Female,Brazil,2021-11-05,96.57,Credit Card,elizabeth.miller705@example.com
+CUST00258,Jessica Smith,45,Female,Canada,2020-02-25,147.49,Cash,jessica.smith258@example.com
+CUST00945,David Jackson,28,Male,Qatar,2017-11-19,158.7,Paypal,david.jackson945@example.com
+CUST00852,Joseph Davis,55,Female,United States,2020-09-15,73.32,Credit Card,joseph.davis852@example.com
+CUST00073,David Taylor,44,Male,United States,2015-05-03,55.93,Cash,david.taylor73@example.com
+CUST00196,Sarah Thomas,35,Male,Canada,2021-04-18,107.37,Cash,sarah.thomas196@example.com
+CUST00484,Elizabeth Moore,33,Female,Brazil,2017-08-05,94.81,Credit Card,elizabeth.moore484@example.com
+CUST00138,Linda Martinez,38,Male,Qatar,2016-10-10,126.69,Credit Card,linda.martinez138@example.com
+CUST00495,Michael Jackson,38,Female,France,2019-10-16,185.95,Paypal,michael.jackson495@example.com
+CUST00773,Jennifer Martinez,38,Male,Qatar,2022-07-03,151.57,Cash,jennifer.martinez773@example.com
+CUST00551,Thomas Brown,37,Female,Canada,2021-06-08,72.41,Credit Card,thomas.brown551@example.com
+CUST00463,John Williams,40,Female,India,2023-11-24,134.07,Paypal,john.williams463@example.com
+CUST00202,Mary Martin,51,Female,Brazil,2022-07-03,121.69,Debit Card,mary.martin202@example.com
+CUST00313,Mary Lopez,16,Female,United Kingdom,2023-05-13,53.15,Cash,mary.lopez313@example.com
+CUST00291,David Moore,47,Female,India,2018-08-12,219.48,Paypal,david.moore291@example.com
+CUST00961,Susan Davis,41,Male,United States,2018-09-15,66.92,Debit Card,susan.davis961@example.com
+CUST00190,James Johnson,38,Male,United Kingdom,2017-08-23,191.57,Cash,james.johnson190@example.com
+CUST00764,Linda Davis,38,Female,United States,2017-04-04,41.69,Paypal,linda.davis764@example.com
+CUST00113,Michael Johnson,64,Male,India,2022-10-06,74.89,Cash,michael.johnson113@example.com
+CUST00950,Karen Moore,37,Male,Australia,2016-12-04,87.62,Paypal,karen.moore950@example.com
+CUST00184,Barbara Garcia,46,Female,Canada,2022-10-17,119.42,Cash,barbara.garcia184@example.com
+CUST00153,Sarah Moore,26,Female,France,2018-02-03,153.92,Cash,sarah.moore153@example.com
+CUST00825,Michael Gonzalez,25,Male,Brazil,2020-10-12,175.79,Cash,michael.gonzalez825@example.com
+CUST00326,Linda Garcia,32,Female,France,2022-04-26,169.52,Paypal,linda.garcia326@example.com
+CUST00045,James Anderson,48,Male,Brazil,2023-04-08,192.19,Paypal,james.anderson45@example.com
+CUST00445,Elizabeth Moore,40,Male,France,2015-06-22,117.13,Credit Card,elizabeth.moore445@example.com
+CUST00788,James Anderson,33,Female,United States,2022-12-14,213.2,Paypal,james.anderson788@example.com
+CUST00251,Linda Lopez,29,Male,France,2016-01-10,125.73,Credit Card,linda.lopez251@example.com
+CUST00824,Joseph Davis,36,Male,Japan,2020-03-01,121.59,Paypal,joseph.davis824@example.com
+CUST00076,Jennifer Anderson,34,Female,France,2023-11-06,143.6,Credit Card,jennifer.anderson76@example.com
+CUST00513,Linda Thomas,56,Female,United Kingdom,2018-10-14,43.61,Cash,linda.thomas513@example.com
+CUST00941,Linda Jackson,52,Female,Qatar,2024-03-12,124.49,Cash,linda.jackson941@example.com
+CUST00392,William Miller,37,Male,Canada,2022-02-03,62.32,Credit Card,william.miller392@example.com
+CUST00896,Charles Rodriguez,38,Male,Qatar,2021-06-16,94.64,Credit Card,charles.rodriguez896@example.com
+CUST00433,Richard Martinez,46,Male,United Kingdom,2015-04-14,140.02,Cash,richard.martinez433@example.com
+CUST00069,Robert Lopez,37,Male,Qatar,2020-08-20,180.13,Cash,robert.lopez69@example.com
+CUST00168,Thomas Jones,45,Female,Japan,2022-03-23,46.4,Credit Card,thomas.jones168@example.com
+CUST00905,Richard Jones,41,Male,Canada,2022-09-25,121.59,Cash,richard.jones905@example.com
+CUST00731,Michael Williams,44,Female,Australia,2016-07-24,194.04,Cash,michael.williams731@example.com
+CUST00555,John Lopez,40,Male,Canada,2020-09-09,247.22,Cash,john.lopez555@example.com
+CUST00367,Karen Lopez,35,Male,Australia,2021-01-23,102.1,Paypal,karen.lopez367@example.com
+CUST00585,John Smith,26,Female,India,2015-07-16,169.21,Debit Card,john.smith585@example.com
+CUST00536,William Rodriguez,47,Male,Germany,2024-06-16,205.07,Credit Card,william.rodriguez536@example.com
+CUST00399,Michael Davis,49,Female,France,2018-01-17,167.89,Cash,michael.davis399@example.com
+CUST00186,Robert Davis,18,Male,United Kingdom,2019-06-13,112.18,Cash,robert.davis186@example.com
+CUST00349,James Thomas,22,Female,India,2016-02-23,129.99,Cash,james.thomas349@example.com
+CUST00616,Robert Thomas,26,Female,Qatar,2017-10-06,79.62,Credit Card,robert.thomas616@example.com
+CUST00920,Joseph Smith,45,Female,Qatar,2017-12-23,98.49,Paypal,joseph.smith920@example.com
+CUST00212,Charles Hernandez,38,Male,Japan,2023-03-20,119.68,Paypal,charles.hernandez212@example.com
+CUST00580,Linda Williams,32,Female,Japan,2021-08-23,87.94,Cash,linda.williams580@example.com
+CUST00538,Thomas Garcia,38,Male,United Kingdom,2018-02-10,74.88,Credit Card,thomas.garcia538@example.com
+CUST00197,Charles Anderson,31,Female,United States,2023-10-01,159.29,Debit Card,charles.anderson197@example.com
+CUST00176,John Thomas,24,Male,Germany,2019-10-08,179.63,Credit Card,john.thomas176@example.com
