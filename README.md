@@ -39,7 +39,7 @@ The objective of this project was to explore a retail sales dataset and identify
 * Additional visualisations
 * Business recommendations
 
-**Folder:** `DataAnalytics-Level1-Task1-EDARetailSales`
+**Folder:** `DataAnalytics-L1-EDARetailSales`
 
 ---
 
@@ -78,7 +78,7 @@ The purpose of this project was to transform a messy dataset into a clean and an
 * Before-and-after data quality comparison
 * Exporting the cleaned dataset
 
-**Folder:** `DataAnalytics-Level1-Task3-DataCleaning`
+**Folder:** `DataAnalytics-L1-DataCleaning`
 
 ---
 
@@ -100,7 +100,7 @@ This project analyses tnd classDataifies it into positive, negative, and neutral
 * Sentiment distribution visualisation
 * Error analysis
 
-**Folder:** `DataAnalytics-Level1-Task4-SentimentAnalysis`
+**Folder:** `DataAnalytics-L1-SentimentAnalysis`
 
 ---
 
@@ -126,7 +126,7 @@ This project uses **Lineaession** to predict house prices based on different pro
 
 A regularised model such as Ridge or Lasso can also be used for comparison.
 
-**Folder:** `DataAnalytics-Level2-Task1-HousePricePrediction`
+**Folder:** `DataAnalytics-L2-HousePricePrediction`
 
 ---
 
@@ -155,7 +155,7 @@ The goal of this project was to predict wine quality usingPredictingcochemicals 
 * Random Forest feature importance
 * Model comparison
 
-**Folder:** `DataAnalytics-Level2-Task2-WineQualityPrediction`
+**Folder:** `DataAnalytics-L2-WineQualityPrediction`
 
 ---
 
@@ -176,7 +176,7 @@ This project focuses on identifying fraudulent financial transactions from an im
 * Feature importance/coefficient analysis
 * Discussion of model scalability
 
-**Folder:** `DataAnalytics-Level2-Task3-FraudDetection`
+**Folder:** `DataAnalytics-L2-FraudDetection`
 
 ---
 
@@ -198,7 +198,7 @@ This project explores the Google Play Store ecosystem, including app categories,
 * Data visualisation
 * Business recommendations
 
-**Folder:** `DataAnalytics-Level2-Task4-GooglePlayStoreAnalysis`
+**Folder:** `DataAnalytics-L2-UnveilingTHe AndroidAppMarket`
 
 ---
 
@@ -222,55 +222,7 @@ This project explores NLP-based approaches for autocomplete and autocorrect syst
 * Autocorrect performance analysis
 * Discussion of limitations compared with production systems
 
-**Folder:** `DataAnalytics-Level2-Task5-AutocompleteAutocorrect`
-
----
-
-# Repository Structure
-
-```text
-OIBSIP/
-│
-├── DataAnalytics-Level1-Task1-EDARetailSales/
-│   ├── store_sales.ipynb
-│   └── dataset/
-│
-├── DataAnalytics-L1-CustomerSegmentation/
-│   ├── Custogmentation.i_pynb
-│   └─DataAnalytics─ dataset/
-│
-├── DataAnalytics-Level1-Task3-DataCleaning/
-│   ├── Data_Cleaning.ipynb
-│   └── dataset/
-│
-├── DataAnalytics-Level1-Task4-SentimentAnalysis/
-│   ├── Sentiment_Analysis.ipynb
-│   └── dataset/
-│
-├── DataAnalytics-Level2-Task1-HousePricePrediction/
-│   ├── House_Price_Prediction.ipynb
-│   └── dataset/
-│
-├── DataAnalytics-Level2-Task2-WineQualityPrediction/
-│   ├── Wine_Quality_Prediction.ipynb
-│   └── dataset/
-│
-├── DataAnalytics-Level2-Task3-FraudDetection/
-│   ├── Fraud_Detection.ipynb
-│   └── dataset/
-│
-├── DataAnalytics-Level2-Task4-GooglePlayStoreAnalysis/
-│   ├── Google_Play_Store_Analysis.ipynb
-│   └── dataset/
-│
-├── DataAnalytics-Level2-Task5-AutocompleteAutocorrect/
-│   ├── Autocomplete_Autocorrect.ipynb
-│   └── dataset/
-│
-└── README.md
-```
-
-> The exact file and folder names may vary depending on the final project files.
+**Folder:** `DataAnalytics-L2-AutocompleteAutocorrect`
 
 # Key Learning Outcomes
 
