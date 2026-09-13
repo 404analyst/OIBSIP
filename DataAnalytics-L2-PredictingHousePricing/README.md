@@ -70,7 +70,7 @@ The following features were selected for the prediction model:
 | `Year Built` | Year the house was built |
 | `Neighborhood` | Location/neighborhood of the property |
 
-### Target
+### Target Variable
 
 `SalePrice`
 
@@ -226,3 +226,4 @@ DataAnalytics-L2-PredictingHousePricing/
 ├── HousePrices.csv
 ├── HousePricePrediction.ipynb
 └── README.md
+
