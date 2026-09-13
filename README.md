@@ -43,7 +43,7 @@ The objective of this project was to explore a retail sales dataset and identify
 
 ---
 
-## Task 2: Cu Segmentation Analysis
+## Task 2: Customer Segmentation Analysis
 
 This project focuses on grouping customers based on their purchasing behaviour.
 
