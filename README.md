@@ -299,7 +299,8 @@ This repository documents my practical work and learning throughout the internsh
 
 # Author
 
-**Mukarrama Binte Nesar**
+**Mukarrama**
 
 GitHub: `404analyst`
+
 
